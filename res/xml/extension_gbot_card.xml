@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <module id="@id/access_point_search" class="com.google.android.apps.inputmethod.libs.search.gbot.GbotCardExtension" icon="@attr/IconAccessPointSearch" content_description="@string/search_access_point_content_desc" languages="@array/search_extension_supported_languages">
+        <keyboard_group>
+            <keyboard type="prime" def="@xml/keyboard_gbot_search" />
+            <keyboard type="search_result" def="@xml/keyboard_gbot_card_viewer" />
+        </keyboard_group>
+    </module>
+</framework>

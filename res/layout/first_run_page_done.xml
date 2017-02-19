@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.latin.firstrun.LatinSetupDonePage style="@style/FirstRunPage" feature_activity_class="com.google.android.apps.inputmethod.latin.firstrun.LatinFeatureActivity"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/first_run_page_header" />
+    <LinearLayout style="@style/FirstRunPageContent">
+        <TextView android:text="@string/setup_done_page_title" style="@style/FirstRunPageTitle" />
+        <com.google.android.apps.inputmethod.libs.framework.core.LinkableTextView android:id="@id/first_run_page_setup_languages_label" linkable_text="@string/first_run_page_select_language" style="@style/FirstRunPageDescription" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/first_run_page_show_features_button" android:text="@string/first_run_see_features_hint" style="@style/FirstRunPageButton" />
+            <Button android:id="@id/first_run_page_setup_done_button" android:visibility="gone" android:text="@string/tutorial_done" style="@style/FirstRunPageButton" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.latin.firstrun.LatinSetupDonePage>

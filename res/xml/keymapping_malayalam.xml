@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping view_id="@id/key_pos_2_9" key_id="@id/softkey_malayalam_letter_lla" />
+        <mapping view_id="@id/key_pos_2_8" key_id="@id/softkey_malayalam_letter_ha" />
+        <mapping view_id="@id/key_pos_2_7" key_id="@id/softkey_malayalam_letter_sha" />
+        <mapping view_id="@id/key_pos_2_6" key_id="@id/softkey_malayalam_letter_va" />
+        <mapping view_id="@id/key_pos_2_5" key_id="@id/softkey_malayalam_letter_la" />
+        <mapping view_id="@id/key_pos_2_4" key_id="@id/softkey_malayalam_letter_ra" />
+        <mapping view_id="@id/key_pos_2_3" key_id="@id/softkey_malayalam_letter_ya" />
+        <mapping view_id="@id/key_pos_2_2" key_id="@id/softkey_malayalam_letter_ma" />
+        <mapping view_id="@id/key_pos_2_1" key_id="@id/softkey_malayalam_letter_ba" />
+        <mapping view_id="@id/key_pos_2_0" key_id="@id/softkey_malayalam_letter_pa" />
+        <mapping view_id="@id/key_pos_1_10" key_id="@id/softkey_malayalam_letter_na" />
+        <mapping view_id="@id/key_pos_1_9" key_id="@id/softkey_malayalam_letter_da" />
+        <mapping view_id="@id/key_pos_1_8" key_id="@id/softkey_malayalam_letter_ta" />
+        <mapping view_id="@id/key_pos_1_7" key_id="@id/softkey_malayalam_letter_nna" />
+        <mapping view_id="@id/key_pos_1_6" key_id="@id/softkey_malayalam_letter_dda" />
+        <mapping view_id="@id/key_pos_1_5" key_id="@id/softkey_malayalam_letter_tta" />
+        <mapping view_id="@id/key_pos_1_4" key_id="@id/softkey_malayalam_letter_ja" />
+        <mapping view_id="@id/key_pos_1_3" key_id="@id/softkey_malayalam_letter_ca" />
+        <mapping view_id="@id/key_pos_1_2" key_id="@id/softkey_malayalam_letter_nga" />
+        <mapping view_id="@id/key_pos_1_1" key_id="@id/softkey_malayalam_letter_ga" />
+        <mapping view_id="@id/key_pos_1_0" key_id="@id/softkey_malayalam_letter_ka" />
+        <mapping view_id="@id/key_pos_0_10" key_id="@id/softkey_malayalam_vowel_sign_oo" />
+        <mapping view_id="@id/key_pos_0_9" key_id="@id/softkey_malayalam_vowel_sign_o" />
+        <mapping view_id="@id/key_pos_0_8" key_id="@id/softkey_malayalam_vowel_sign_ee" />
+        <mapping view_id="@id/key_pos_0_7" key_id="@id/softkey_malayalam_vowel_sign_e" />
+        <mapping view_id="@id/key_pos_0_6" key_id="@id/softkey_malayalam_vowel_sign_vocalic_r" />
+        <mapping view_id="@id/key_pos_0_5" key_id="@id/softkey_malayalam_vowel_sign_uu" />
+        <mapping view_id="@id/key_pos_0_4" key_id="@id/softkey_malayalam_vowel_sign_u" />
+        <mapping view_id="@id/key_pos_0_3" key_id="@id/softkey_malayalam_vowel_sign_ii" />
+        <mapping view_id="@id/key_pos_0_2" key_id="@id/softkey_malayalam_vowel_sign_i" />
+        <mapping view_id="@id/key_pos_0_1" key_id="@id/softkey_malayalam_vowel_sign_aa" />
+        <mapping view_id="@id/key_pos_0_0" key_id="@id/softkey_malayalam_sign_virama" />
+    </key_mapping>
+</framework>

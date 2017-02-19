@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping state="LANG_AR+SHIFT_LOCK,LANG_FA+SHIFT_LOCK,LANG_FA_AF+SHIFT_LOCK,LANG_KU_IQ+SHIFT_LOCK,LANG_PS+SHIFT_LOCK,LANG_TRW+SHIFT_LOCK,LANG_UR+SHIFT_LOCK">
+        <mapping view_id="@id/key_pos_non_prime_symbol_1" key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" />
+        <mapping view_id="@id/key_pos_non_prime_symbol_2" key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" />
+    </key_mapping>
+</framework>

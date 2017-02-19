@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyboardView android:layout_height="@dimen/search_header_box" style="@style/Header.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_search_result_header_inner_no_theme" />
+</com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyboardView>

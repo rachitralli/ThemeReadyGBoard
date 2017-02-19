@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime string_id="ime_greek" class="com.google.android.apps.inputmethod.libs.latin.LatinIme" language="el" auto_capital="true" display_app_completions="true">
+        <keyboard_group variant="greek">
+            <keyboard type="prime" def="@xml/keyboard_el" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <keyboard_group variant="greek_with_numbers" keyboard_height_ratio="@dimen/keyboard_height_ratio_5_rows">
+            <keyboard type="prime" def="@xml/keyboard_el">
+                <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

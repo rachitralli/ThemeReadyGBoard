@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_gbot_search" class="com.google.android.apps.inputmethod.libs.search.gbot.keyboard.GbotSearchKeyboard">
+        <view layout="@layout/keyboard_search_header" type="header">
+            <softkeys href="@xml/softkeys_search_header" />
+            <softkeys href="@xml/softkeys_gbot_header" />
+            <include href="@xml/keymapping_search_header_gbot" />
+        </view>
+        <view layout="@layout/popup_view_app_overlay" id="@id/popup_view_app_overlay" />
+    </keyboard>
+</framework>

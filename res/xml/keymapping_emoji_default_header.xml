@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping view_id="@id/key_pos_header_search" key_id="@id/softkey_open_search_keyboard" />
+    </key_mapping>
+    <key_mapping state="@string/unsupported_languages_for_gif_and_emoji_search">
+        <mapping view_id="@id/key_pos_header_search" key_id="@id/softkey_empty" />
+        <mapping view_id="@id/search_query_header" key_id="@id/softkey_empty" />
+        <mapping view_id="@id/key_pos_header_cancel_input" key_id="@id/softkey_empty" />
+    </key_mapping>
+</framework>

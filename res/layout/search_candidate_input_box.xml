@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" style="@style/GBoardIconHolder">
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/key_pos_search_header_search" style="@style/GBoardIcon" />
+    </FrameLayout>
+    <com.google.android.apps.inputmethod.libs.framework.module.EditTextOnKeyboard android:textSize="@dimen/search_box_font_size" android:textColor="@android:color/black" android:ellipsize="end" android:id="@id/edit_text_search_box" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:inputType="textNoSuggestions" android:imeOptions="actionSearch" />
+    <FrameLayout style="@style/ThreePartRowFrame.End">
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/key_pos_search_header_cancel" style="@style/HeaderClearIcon" />
+    </FrameLayout>
+</merge>

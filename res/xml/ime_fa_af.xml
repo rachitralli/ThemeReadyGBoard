@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime string_id="ime_dari_afghanistan" class="com.google.android.apps.inputmethod.libs.latin.LatinIme" language="fa_AF" auto_capital="false" display_app_completions="true">
+        <keyboard_group variant="dari_afghanistan">
+            <keyboard type="prime" def="@xml/keyboard_fa" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <keyboard_group variant="dari_afghanistan_with_numbers" keyboard_height_ratio="@dimen/keyboard_height_ratio_5_rows">
+            <keyboard type="prime" def="@xml/keyboard_fa">
+                <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11_no_shift" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

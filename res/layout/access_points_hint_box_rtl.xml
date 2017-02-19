@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointsHintView style="@style/AccessPointsHintBoxRtl" icon_view="@layout/access_points_hint_icon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/hint_box_text" style="@style/AccessPointsHintBoxText" />
+    <LinearLayout android:id="@id/access_points_hint_box_icons" style="@style/AccessPointsHintBoxIconsContainer" />
+</com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointsHintView>

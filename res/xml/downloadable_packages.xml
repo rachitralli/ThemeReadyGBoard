@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <data_package package_id="gboard_conv2query_global_entities_en" consumers="ConversationToQueryDataProvider" lang="en" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/en/gboard_conv2query_global_entities.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_lstm_en" consumers="ConversationToQueryDataProvider" lang="en" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/en/gboard_conv2query_lstm.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_config_en" consumers="ConversationToQueryDataProvider" lang="en" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/en/gboard_conv2query_config.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_slices_en" consumers="ConversationToQueryDataProvider" lang="en" type="LOCAL" update_checker="com.google.android.apps.inputmethod.libs.search.sense.LocalSlicesCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/en/gboard_conv2query_local_slices.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_index_en" consumers="ConversationToQueryDataProvider" lang="en" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/en/gboard_conv2query_local_index.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_global_entities_de" consumers="ConversationToQueryDataProvider" lang="de" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/de/gboard_conv2query_global_entities.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_lstm_de" consumers="ConversationToQueryDataProvider" lang="de" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/de/gboard_conv2query_lstm.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_config_de" consumers="ConversationToQueryDataProvider" lang="de" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/de/gboard_conv2query_config.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_index_de" consumers="ConversationToQueryDataProvider" lang="de" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/de/gboard_conv2query_local_index.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_slices_de" consumers="ConversationToQueryDataProvider" lang="de" type="LOCAL" update_checker="com.google.android.apps.inputmethod.libs.search.sense.LocalSlicesCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/de/gboard_conv2query_local_slices.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_global_entities_fr" consumers="ConversationToQueryDataProvider" lang="fr" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/fr/gboard_conv2query_global_entities.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_lstm_fr" consumers="ConversationToQueryDataProvider" lang="fr" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/fr/gboard_conv2query_lstm.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_config_fr" consumers="ConversationToQueryDataProvider" lang="fr" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/fr/gboard_conv2query_config.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_slices_fr" consumers="ConversationToQueryDataProvider" lang="fr" type="LOCAL" update_checker="com.google.android.apps.inputmethod.libs.search.sense.LocalSlicesCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/fr/gboard_conv2query_local_slices.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_index_fr" consumers="ConversationToQueryDataProvider" lang="fr" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/fr/gboard_conv2query_local_index.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_global_entities_es" consumers="ConversationToQueryDataProvider" lang="es" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/es/gboard_conv2query_global_entities.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_lstm_es" consumers="ConversationToQueryDataProvider" lang="es" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/es/gboard_conv2query_lstm.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_config_es" consumers="ConversationToQueryDataProvider" lang="es" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/es/gboard_conv2query_config.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_slices_es" consumers="ConversationToQueryDataProvider" lang="es" type="LOCAL" update_checker="com.google.android.apps.inputmethod.libs.search.sense.LocalSlicesCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/es/gboard_conv2query_local_slices.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_index_es" consumers="ConversationToQueryDataProvider" lang="es" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/es/gboard_conv2query_local_index.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_global_entities_it" consumers="ConversationToQueryDataProvider" lang="it" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/it/gboard_conv2query_global_entities.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_lstm_it" consumers="ConversationToQueryDataProvider" lang="it" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/it/gboard_conv2query_lstm.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_config_it" consumers="ConversationToQueryDataProvider" lang="it" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/it/gboard_conv2query_config.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_slices_it" consumers="ConversationToQueryDataProvider" lang="it" type="LOCAL" update_checker="com.google.android.apps.inputmethod.libs.search.sense.LocalSlicesCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/it/gboard_conv2query_local_slices.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_index_it" consumers="ConversationToQueryDataProvider" lang="it" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/it/gboard_conv2query_local_index.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_global_entities_pt" consumers="ConversationToQueryDataProvider" lang="pt" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/pt/gboard_conv2query_global_entities.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_lstm_pt" consumers="ConversationToQueryDataProvider" lang="pt" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/pt/gboard_conv2query_lstm.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_config_pt" consumers="ConversationToQueryDataProvider" lang="pt" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/pt/gboard_conv2query_config.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_slices_pt" consumers="ConversationToQueryDataProvider" lang="pt" type="LOCAL" update_checker="com.google.android.apps.inputmethod.libs.search.sense.LocalSlicesCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/pt/gboard_conv2query_local_slices.json" />
+        </extra_values>
+    </data_package>
+    <data_package package_id="gboard_conv2query_local_index_pt" consumers="ConversationToQueryDataProvider" lang="pt" type="GLOBAL" update_checker="com.google.android.apps.inputmethod.libs.dataservice.download.JSonCheckUpdateTask" version="1">
+        <extra_values>
+            <item id="@id/extra_json_update_url" value="https://storage.googleapis.com/gboard-c2q/android/pt/gboard_conv2query_local_index.json" />
+        </extra_values>
+    </data_package>
+</framework>

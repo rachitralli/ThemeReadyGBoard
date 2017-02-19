@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <item id="@string/default_language_locale_de" />
+    <item id="@string/default_language_locale_en" />
+    <item id="@string/default_language_locale_es" />
+    <item id="@string/default_language_locale_fr" />
+    <item id="@string/default_language_locale_it" />
+    <item id="@string/default_language_locale_ru" />
+    <item id="@string/default_country_locales_en_au" />
+    <item id="@string/default_country_locales_en_in" />
+    <item id="@string/default_country_locales_en_ke" />
+    <item id="@string/default_country_locales_en_ng" />
+    <item id="@string/default_country_locales_en_za" />
+    <item id="@string/default_country_locales_en_nz" />
+    <item id="@string/default_country_locales_es_ar" />
+    <item id="@string/default_country_locales_es_mx" />
+    <item id="@string/default_country_locales_pt_002" />
+    <item id="@string/default_country_locales_sr_zz" />
+    <item id="@string/default_country_locales_sr_xa" />
+    <item id="@string/default_country_locales_hi_zz" />
+</xml>

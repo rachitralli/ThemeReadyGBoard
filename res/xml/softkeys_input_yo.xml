@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_latin_q" press_data="q" />
+            <softkey id="@id/softkey_latin_Q" press_data="Q" />
+            <softkey id="@id/softkey_latin_w" press_data="w" />
+            <softkey id="@id/softkey_latin_W" press_data="W" />
+            <softkey id="@id/softkey_latin_e" long_press_data="è,é,ẹ,ẹ̀,ẹ́,ē,ê,ě" press_data="e" />
+            <softkey id="@id/softkey_latin_E" long_press_data="È,É,Ẹ,Ẹ̀,Ẹ́,Ē,Ê,Ě" press_data="E" />
+            <softkey id="@id/softkey_latin_r" press_data="r" />
+            <softkey id="@id/softkey_latin_R" press_data="R" />
+            <softkey id="@id/softkey_latin_t" press_data="t" />
+            <softkey id="@id/softkey_latin_T" press_data="T" />
+            <softkey id="@id/softkey_latin_y" press_data="y" />
+            <softkey id="@id/softkey_latin_Y" press_data="Y" />
+            <softkey id="@id/softkey_latin_u" long_press_data="ù,ú,ū,û,ǔ" press_data="u" />
+            <softkey id="@id/softkey_latin_U" long_press_data="Ù,Ú,Ū,Û,Ǔ" press_data="U" />
+            <softkey id="@id/softkey_latin_i" long_press_data="ì,í,ī,î,ǐ" press_data="i" />
+            <softkey id="@id/softkey_latin_I" long_press_data="Ì,Í,Ī,Î,Ǐ" press_data="I" />
+            <softkey id="@id/softkey_latin_o" long_press_data="ò,ó,ọ,ọ̀,ọ́,ō,ô,ǒ" press_data="o" />
+            <softkey id="@id/softkey_latin_O" long_press_data="Ò,Ó,Ọ,Ọ̀,Ọ́,Ō,Ô,Ǒ" press_data="O" />
+            <softkey id="@id/softkey_latin_p" press_data="p" />
+            <softkey id="@id/softkey_latin_P" press_data="P" />
+            <softkey id="@id/softkey_latin_a" long_press_data="à,á,ā,â,ǎ" press_data="a" />
+            <softkey id="@id/softkey_latin_A" long_press_data="À,Á,Ā,Â,Ǎ" press_data="A" />
+            <softkey id="@id/softkey_latin_s" long_press_data="ṣ" press_data="s" />
+            <softkey id="@id/softkey_latin_S" long_press_data="Ṣ" press_data="S" />
+            <softkey id="@id/softkey_latin_d" press_data="d" />
+            <softkey id="@id/softkey_latin_D" press_data="D" />
+            <softkey id="@id/softkey_latin_f" press_data="f" />
+            <softkey id="@id/softkey_latin_F" press_data="F" />
+            <softkey id="@id/softkey_latin_g" press_data="g" />
+            <softkey id="@id/softkey_latin_G" press_data="G" />
+            <softkey id="@id/softkey_latin_h" press_data="h" />
+            <softkey id="@id/softkey_latin_H" press_data="H" />
+            <softkey id="@id/softkey_latin_j" press_data="j" />
+            <softkey id="@id/softkey_latin_J" press_data="J" />
+            <softkey id="@id/softkey_latin_k" press_data="k" />
+            <softkey id="@id/softkey_latin_K" press_data="K" />
+            <softkey id="@id/softkey_latin_l" press_data="l" />
+            <softkey id="@id/softkey_latin_L" press_data="L" />
+            <softkey id="@id/softkey_latin_z" press_data="z" />
+            <softkey id="@id/softkey_latin_Z" press_data="Z" />
+            <softkey id="@id/softkey_latin_x" press_data="x" />
+            <softkey id="@id/softkey_latin_X" press_data="X" />
+            <softkey id="@id/softkey_latin_c" press_data="c" />
+            <softkey id="@id/softkey_latin_C" press_data="C" />
+            <softkey id="@id/softkey_latin_v" press_data="v" />
+            <softkey id="@id/softkey_latin_V" press_data="V" />
+            <softkey id="@id/softkey_latin_b" press_data="b" />
+            <softkey id="@id/softkey_latin_B" press_data="B" />
+            <softkey id="@id/softkey_latin_n" long_press_data="ń,ǹ,n̄" press_data="n" />
+            <softkey id="@id/softkey_latin_N" long_press_data="Ń,Ǹ,N̄" press_data="N" />
+            <softkey id="@id/softkey_latin_m" long_press_data="ḿ,m̀,m̄" press_data="m" />
+            <softkey id="@id/softkey_latin_M" long_press_data="Ḿ,M̀,M̄" press_data="M" />
+        </softkey_list>
+    </softkeys>
+</framework>

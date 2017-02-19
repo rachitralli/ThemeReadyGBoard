@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime string_id="ime_esperanto" class="com.google.android.apps.inputmethod.libs.latin.LatinIme" language="eo" auto_capital="true" display_app_completions="true">
+        <keyboard_group variant="esperanto">
+            <keyboard type="prime" def="@xml/keyboard_eo" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <keyboard_group variant="esperanto_with_numbers" keyboard_height_ratio="@dimen/keyboard_height_ratio_5_rows">
+            <keyboard type="prime" def="@xml/keyboard_eo">
+                <merge def="@xml/keyboard_latin_fragment_numbers_10_10_10_9" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

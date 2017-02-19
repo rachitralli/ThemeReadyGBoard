@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime string_id="ime_bulgarian" class="com.google.android.apps.inputmethod.libs.latin.LatinIme" language="bg" auto_capital="true" display_app_completions="true">
+        <keyboard_group variant="bulgarian">
+            <keyboard type="prime" def="@xml/keyboard_bg" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <keyboard_group variant="bulgarian_with_numbers" keyboard_height_ratio="@dimen/keyboard_height_ratio_5_rows">
+            <keyboard type="prime" def="@xml/keyboard_bg">
+                <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_10" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

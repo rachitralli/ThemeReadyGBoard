@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:text="@string/feature_page_theme_title" style="@style/FeaturePageTitle" />
+    <com.google.android.apps.inputmethod.libs.framework.core.PreferenceCheckBox android:id="@id/feature_page_enable_key_border" android:text="@string/feature_page_theme_toggle_border" style="@style/FeaturePageCheckBox" pref_key="@string/pref_key_enable_key_border" />
+    <Button android:id="@id/feature_page_skip_button" android:text="@string/tutorial_get_started" style="@style/FeaturePageButton" />
+</merge>

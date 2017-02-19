@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@id/softkey_fake_open_search_keyboard" layout="@layout/softkey_emoji_query_candidate" content_description="@string/gboard_emoji_search_content_desc">
+            <action type="PRESS" keycode="SWITCH_TO_SEARCH_KEYBOARD" play_media_effect="false" />
+        </softkey>
+    </softkeys>
+</framework>

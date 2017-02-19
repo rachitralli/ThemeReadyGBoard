@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_bn_in" key_text_size_ratio="@dimen/indic_key_text_size_ratio">
+        <view layout="@layout/keyboard_latin_11_11_11_no_shift_body" type="body">
+            <softkeys href="@xml/softkeys_input_bn_in" />
+            <softkeys href="@xml/softkeys_latin_fragment_secondary_digits_bn_in" />
+            <include href="@xml/keymapping_bengali" />
+            <include href="@xml/keymapping_latin_fragment_secondary_digits" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols" />
+</framework>

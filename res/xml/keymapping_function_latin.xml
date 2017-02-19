@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping view_id="@id/key_pos_zwnj_with_zwj" key_id="@id/softkey_empty" />
+        <mapping view_id="@id/key_pos_space" key_id="@id/softkey_space_empty" />
+        <mapping view_id="@id/key_pos_del" key_id="@id/softkey_del" />
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard" />
+    </key_mapping>
+    <key_mapping state="LANG_AR">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" />
+    </key_mapping>
+    <key_mapping state="LANG_BN_BD,LANG_BN_IN">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" />
+    </key_mapping>
+    <key_mapping state="LANG_FA,LANG_FA_AF,LANG_KU_IQ,LANG_PS,LANG_UR">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_persian" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_persian" />
+    </key_mapping>
+    <key_mapping state="LANG_HI,LANG_MR,LANG_NE_NP">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_indic" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_indic" />
+    </key_mapping>
+    <key_mapping state="LANG_MY">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" />
+    </key_mapping>
+    <key_mapping state="LANG_BO">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" />
+    </key_mapping>
+    <key_mapping state="LANG_AM">
+        <mapping view_id="@id/key_pos_switch_to_symbol" key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" />
+        <mapping view_id="@id/key_pos_switch_to_symbol_right" key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" />
+    </key_mapping>
+    <key_mapping state="LANG_FA,LANG_FA_AF,LANG_NE_NP,LANG_BN_BD,LANG_KN,LANG_TE,LANG_UG">
+        <mapping view_id="@id/key_pos_zwnj_with_zwj" key_id="@id/softkey_zwnj" />
+    </key_mapping>
+</framework>

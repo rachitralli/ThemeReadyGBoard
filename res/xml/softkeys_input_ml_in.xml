@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list template_id="@id/softkey_template_multi_popup_on_long_press_simple" splitter=",">
+            <softkey id="@id/softkey_malayalam_sign_virama" press_data="്" long_press_data="അ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_aa" press_data="ാ" long_press_data="ആ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_i" press_data="ി" long_press_data="ഇ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_ii" press_data="ീ" long_press_data="ഈ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_u" press_data="ു" long_press_data="ഉ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_uu" press_data="ൂ" long_press_data="ഊ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_vocalic_r" press_data="ൃ" long_press_data="ഋ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_e" press_data="െ" long_press_data="എ,ഐ,ൈ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_ee" press_data="േ" long_press_data="ഏ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_o" press_data="ൊ" long_press_data="ഒ" merge_index="-1" />
+            <softkey id="@id/softkey_malayalam_vowel_sign_oo" press_data="ോ" long_press_data="ഓ,ഔ,ൗ" />
+            <softkey id="@id/softkey_malayalam_letter_ka" press_data="ക" long_press_data="ഖ" />
+            <softkey id="@id/softkey_malayalam_letter_ga" press_data="ഗ" long_press_data="ഘ" />
+            <softkey id="@id/softkey_malayalam_letter_nga" press_data="ങ" long_press_data="ഞ" />
+            <softkey id="@id/softkey_malayalam_letter_ca" press_data="ച" long_press_data="ഛ" />
+            <softkey id="@id/softkey_malayalam_letter_ja" press_data="ജ" long_press_data="ഝ" />
+            <softkey id="@id/softkey_malayalam_letter_tta" press_data="ട" long_press_data="ഠ" />
+            <softkey id="@id/softkey_malayalam_letter_dda" press_data="ഡ" long_press_data="ഢ" />
+            <softkey id="@id/softkey_malayalam_letter_nna" press_data="ണ" long_press_data="ൺ" />
+            <softkey id="@id/softkey_malayalam_letter_ta" press_data="ത" long_press_data="ഥ" />
+            <softkey id="@id/softkey_malayalam_letter_da" press_data="ദ" long_press_data="ധ" />
+            <softkey id="@id/softkey_malayalam_letter_na" press_data="ന" long_press_data="ൻ" />
+            <softkey id="@id/softkey_malayalam_letter_pa" press_data="പ" long_press_data="ഫ" />
+            <softkey id="@id/softkey_malayalam_letter_ba" press_data="ബ" long_press_data="ഭ" />
+            <softkey id="@id/softkey_malayalam_letter_ma" press_data="മ" long_press_data="ം" />
+            <softkey id="@id/softkey_malayalam_letter_ya" press_data="യ" long_press_data="്യ" />
+            <softkey id="@id/softkey_malayalam_letter_ra" press_data="ര" long_press_data="്ര,ർ,റ" />
+            <softkey id="@id/softkey_malayalam_letter_la" press_data="ല" long_press_data="ൽ" />
+            <softkey id="@id/softkey_malayalam_letter_va" press_data="വ" long_press_data="്വ" />
+            <softkey id="@id/softkey_malayalam_letter_sha" press_data="ശ" long_press_data="ഷ,സ" />
+            <softkey id="@id/softkey_malayalam_letter_ha" press_data="ഹ" long_press_data="ഃ" />
+            <softkey id="@id/softkey_malayalam_letter_lla" press_data="ള" long_press_data="ൾ,ഴ" />
+        </softkey_list>
+    </softkeys>
+</framework>

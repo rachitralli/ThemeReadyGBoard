@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.gbot.widget.VariableHeightSoftKeyboardView android:layout_height="@dimen/keyboard_height" style="@style/Body" allow_mock_action_down="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:paddingStart="0.0dip" android:paddingEnd="0.0dip" style="@style/BodyInner">
+        <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+            <FrameLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <ProgressBar android:layout_gravity="center" android:id="@id/card_view_loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <FrameLayout android:id="@id/gbot_keyboard_error_card_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <com.google.android.apps.inputmethod.libs.search.gbot.widget.ScrollableCardContainer android:layout_gravity="center" android:id="@id/card_view_container" android:padding="5.0dip" android:scrollbars="none" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" minimum_height="@dimen/minimum_gbot_body_height" maximum_height="@dimen/maximum_gbot_body_height" />
+            </FrameLayout>
+            <HorizontalScrollView android:id="@id/suggestion_chip_scroll_view" android:scrollbars="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/suggestion_chip_container" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </HorizontalScrollView>
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.search.gbot.widget.VariableHeightSoftKeyboardView>

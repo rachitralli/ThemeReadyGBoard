@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+    <layout id="ime_amharic" keys="@xml/dynamic_keys_amharic" rules="@xml/dynamic_rules_amharic" />
+    <layout id="ime_hindi_dynamic" keys="@xml/dynamic_keys_hindi" rules="@xml/dynamic_rules_hindi" />
+    <layout id="ime_sinhala" keys="@xml/dynamic_keys_sinhala" rules="@xml/dynamic_rules_sinhala" />
+    <layout id="ime_tamil_india_dynamic" keys="@xml/dynamic_keys_tamil_india" rules="@xml/dynamic_rules_tamil_india" />
+    <layout id="ime_tamil_sri_lanka_dynamic" keys="@xml/dynamic_keys_tamil_sri_lanka" rules="@xml/dynamic_rules_tamil_sri_lanka" />
+    <layout id="ime_tamil_singapore_dynamic" keys="@xml/dynamic_keys_tamil_singapore" rules="@xml/dynamic_rules_tamil_singapore" />
+</layouts>

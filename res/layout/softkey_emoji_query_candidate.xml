@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/search_box_font_size" android:textColor="?ColorExtensionSearchText" android:textColorHint="?ColorExtensionSearchHint" android:ellipsize="end" android:gravity="start|center" android:id="@id/card_viewer_query_text" android:tag=".label.for-query" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/emoji_search_results_hint" android:maxLines="1" android:singleLine="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
