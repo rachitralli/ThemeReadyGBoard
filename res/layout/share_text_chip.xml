@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textColor="@color/gbot_share_chip_text_color" android:background="@drawable/share_chip_outline" android:text="@string/gbot_share_chip_text" style="@style/GbotTextChip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="access_point_cancel_hover_duration">200</integer>
+    <integer name="access_point_holder_hide_duration">200</integer>
+    <integer name="access_point_hover_duration">400</integer>
+    <integer name="access_point_icon_alpha">153</integer>
+    <integer name="access_point_items_scale_larger_duration">400</integer>
+    <integer name="access_point_items_scale_to_original_duration">100</integer>
+    <integer name="access_point_panel_items_scale_duration">150</integer>
+    <integer name="access_points_fly_in_duration">200</integer>
+    <integer name="conv2query_training_cache_erasure_period_days">30</integer>
+    <integer name="conv2query_training_cache_max_count">30000</integer>
+    <integer name="conv2query_training_cache_max_ttl_days">30</integer>
+    <integer name="conv2query_training_cache_write_interval_millis">300000</integer>
+    <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="digit_keyboard_row_weight">333</integer>
+    <integer name="drift_min_timeout">50</integer>
+    <integer name="feature_page_demo_description_weight">420</integer>
+    <integer name="feature_page_demo_get_started_button_weight">135</integer>
+    <integer name="feature_page_demo_text_area_weight">285</integer>
+    <integer name="feature_page_demo_weight">680</integer>
+    <integer name="federatedc2q_extension_min_api_level">21</integer>
+    <integer name="federatedc2q_max_native_crashes">3</integer>
+    <integer name="federatedc2q_training_cache_erasure_period_days">30</integer>
+    <integer name="federatedc2q_training_cache_max_count">1500</integer>
+    <integer name="federatedc2q_training_cache_max_ttl_days">30</integer>
+    <integer name="federatedc2q_training_cache_write_interval_millis">300000</integer>
+    <integer name="federatedc2q_training_heartbeat_deadline_seconds">604800</integer>
+    <integer name="federatedc2q_training_min_battery_level_percent">25</integer>
+    <integer name="federatedc2q_training_period_seconds">3600</integer>
+    <integer name="federatedc2q_training_retrain_limit">0</integer>
+    <integer name="first_run_version">1</integer>
+    <integer name="google_play_services_version">9877000</integer>
+    <integer name="header_height_multiplier_for_theme">1</integer>
+    <integer name="keyboard_9key_left_panel_weight">149</integer>
+    <integer name="keyboard_9key_middle_column_weight_sum">702</integer>
+    <integer name="keyboard_9key_right_panel_weight">149</integer>
+    <integer name="keyboard_bottom_weight">250</integer>
+    <integer name="keyboard_emoji_search_results_column_count">7</integer>
+    <integer name="keyboard_emoji_search_results_column_count_tablet">8</integer>
+    <integer name="keyboard_emoji_search_results_row_count">2</integer>
+    <integer name="keyboard_input_area_weight">750</integer>
+    <integer name="keyboard_non_prime_emoji_column_count">7</integer>
+    <integer name="keyboard_non_prime_emoji_column_count_tablet">8</integer>
+    <integer name="keyboard_non_prime_emoji_row_count">3</integer>
+    <integer name="keyboard_number_password_horizontal_weight">750</integer>
+    <integer name="keyboard_preview_size_ratio_in_percent">80</integer>
+    <integer name="keyboard_row_weight">250</integer>
+    <integer name="keyboard_side_image_button_weight">375</integer>
+    <integer name="lstm_extension_min_api_level">21</integer>
+    <integer name="lstm_max_native_crashes">3</integer>
+    <integer name="lstm_training_cache_erasure_period_days">30</integer>
+    <integer name="lstm_training_cache_max_count">30000</integer>
+    <integer name="lstm_training_cache_max_ttl_days">30</integer>
+    <integer name="lstm_training_cache_write_interval_millis">300000</integer>
+    <integer name="lstm_training_heartbeat_deadline_seconds">604800</integer>
+    <integer name="lstm_training_min_battery_level_percent">25</integer>
+    <integer name="lstm_training_period_seconds">3600</integer>
+    <integer name="lstm_training_retrain_limit">20</integer>
+    <integer name="lstm_variability_period_seconds">3600</integer>
+    <integer name="material_hide_long_press_popup_animation_duration">20</integer>
+    <integer name="material_show_long_press_popup_animation_duration">40</integer>
+    <integer name="max_candidates_per_row">6</integer>
+    <integer name="non_prime_header_sub_category_holder_weight">834</integer>
+    <integer name="number_keyboard_row_weight">250</integer>
+    <integer name="one_handed_max_pageable_candidates_per_row">4</integer>
+    <integer name="popup_bubble_rectangular_label_small_max_item_per_row">8</integer>
+    <integer name="pref_def_value_contacts_first_time_delay_millis">5000</integer>
+    <integer name="pref_def_value_contacts_regular_import_interval_millis">86400000</integer>
+    <integer name="pref_def_value_contacts_retry_from_failure_interval_millis">28800000</integer>
+    <integer name="pref_def_value_contacts_task_delay_millis">5000</integer>
+    <integer name="pref_def_value_download_notification_visibility">2</integer>
+    <integer name="pref_show_privacy_notice_version">1</integer>
+    <integer name="prime_header_icon_weight">142</integer>
+    <integer name="recent_search_candidate_num">3</integer>
+    <integer name="scrub_disabled_toast_delay_milliseconds">1000</integer>
+    <integer name="scrub_interaction_inhibition_timeout_milliseconds">150</integer>
+    <integer name="scrub_trigger_duration_milliseconds">200</integer>
+    <integer name="softkey_qwerty_bottom_label_weight">320</integer>
+    <integer name="softkey_qwerty_upper_label_weight">680</integer>
+    <integer name="subtype_afrikaans">0x6F972360</integer>
+    <integer name="subtype_albanian">0x24DA4B67</integer>
+    <integer name="subtype_amharic">0xCB2589DC</integer>
+    <integer name="subtype_arabic">0x590DDE40</integer>
+    <integer name="subtype_arabic_morocco">0x57F3084B</integer>
+    <integer name="subtype_armenian_armenia_phonetic">0xE39AC3CA</integer>
+    <integer name="subtype_azerbaijani">0x70B0F974</integer>
+    <integer name="subtype_bashkir">0xEC2FB6E2</integer>
+    <integer name="subtype_basque_spain">0x070E5C07</integer>
+    <integer name="subtype_belarusian">0x1DC3A859</integer>
+    <integer name="subtype_bengali_bangladesh">0xA2144B0C</integer>
+    <integer name="subtype_bengali_india">0xBFF5986C</integer>
+    <integer name="subtype_bosnian">0x1685CD18</integer>
+    <integer name="subtype_bulgarian">0x0BA9C0E8</integer>
+    <integer name="subtype_bulgarian_bds">0x5F51BA9A</integer>
+    <integer name="subtype_burmese">0xCF18F1F7</integer>
+    <integer name="subtype_catalan">0xD2E520D5</integer>
+    <integer name="subtype_cebuano">0x88447075</integer>
+    <integer name="subtype_corsican">0xAC6E7080</integer>
+    <integer name="subtype_croatian">0xC791C710</integer>
+    <integer name="subtype_croatian_qwertz">0x35B7526A</integer>
+    <integer name="subtype_czech">0x2D3D2ED0</integer>
+    <integer name="subtype_danish">0x2DF4605D</integer>
+    <integer name="subtype_dari_afghanistan">0xB95C9665</integer>
+    <integer name="subtype_dutch">0x3F9FD91E</integer>
+    <integer name="subtype_dutch_belgium">0x500CA92C</integer>
+    <integer name="subtype_english_australia">0x7A23F08F</integer>
+    <integer name="subtype_english_canada">0x7A23F5A5</integer>
+    <integer name="subtype_english_great_britain">0xB045E755</integer>
+    <integer name="subtype_english_india">0x8D58FC2D</integer>
+    <integer name="subtype_english_kenya">0x7A241429</integer>
+    <integer name="subtype_english_nigeria">0x7A241FAA</integer>
+    <integer name="subtype_english_philippines">0x3AA9DD27</integer>
+    <integer name="subtype_english_south_africa">0x7A244BFC</integer>
+    <integer name="subtype_english_united_states">0xC9194F98</integer>
+    <integer name="subtype_esperanto">0x4090554A</integer>
+    <integer name="subtype_estonian">0xEC2D3955</integer>
+    <integer name="subtype_finnish">0x31CECDA3</integer>
+    <integer name="subtype_french">0x324DA12C</integer>
+    <integer name="subtype_french_africa">0x8802470D</integer>
+    <integer name="subtype_french_canada">0xEADBB691</integer>
+    <integer name="subtype_french_switzerland">0xEADC55F5</integer>
+    <integer name="subtype_frisian">0xC791C066</integer>
+    <integer name="subtype_galician_spain">0xB939573C</integer>
+    <integer name="subtype_georgian">0x6F2C4CA7</integer>
+    <integer name="subtype_georgian_qwerty">0x6E119E6A</integer>
+    <integer name="subtype_german">0x2E2CBE61</integer>
+    <integer name="subtype_german_switzerland">0x7ACFD0AA</integer>
+    <integer name="subtype_greek">0x0E7802D3</integer>
+    <integer name="subtype_greenlandic">0xC2083E8D</integer>
+    <integer name="subtype_guarani">0x881778AE</integer>
+    <integer name="subtype_haitian_creole">0xC791C74D</integer>
+    <integer name="subtype_hausa">0x05E8FFD2</integer>
+    <integer name="subtype_hebrew">0x66FB18BD</integer>
+    <integer name="subtype_hindi">0x39753B7F</integer>
+    <integer name="subtype_hindi_compact">0xE49C89A1</integer>
+    <integer name="subtype_hinglish">0x352EB37C</integer>
+    <integer name="subtype_hmong">0xC7C11FF0</integer>
+    <integer name="subtype_hungarian">0x35E198ED</integer>
+    <integer name="subtype_icelandic">0x7DF519E5</integer>
+    <integer name="subtype_igbo">0x88177F57</integer>
+    <integer name="subtype_indonesian">0x7DAEA460</integer>
+    <integer name="subtype_irish">0xC791C13F</integer>
+    <integer name="subtype_italian">0x37885A0B</integer>
+    <integer name="subtype_italian_switzerland">0xD914FE1A</integer>
+    <integer name="subtype_javanese">0xC791CF0D</integer>
+    <integer name="subtype_kannada_india">0x8C78064F</integer>
+    <integer name="subtype_kazakh">0x2D73D2F6</integer>
+    <integer name="subtype_khmer_cambodia">0x1365683A</integer>
+    <integer name="subtype_khmer_cambodia_native">0x7E0531BE</integer>
+    <integer name="subtype_kurdish_iraq">0xA78B5D26</integer>
+    <integer name="subtype_kurdish_latin">0x1CD9ACB2</integer>
+    <integer name="subtype_kyrgyz">0x2E391C04</integer>
+    <integer name="subtype_lao">0x8315772C</integer>
+    <integer name="subtype_latin">0x881789E0</integer>
+    <integer name="subtype_latvian">0x833DEA45</integer>
+    <integer name="subtype_lingala">0xC791D597</integer>
+    <integer name="subtype_lithuanian">0x8321BB43</integer>
+    <integer name="subtype_luxembourgish">0xF2EE6863</integer>
+    <integer name="subtype_macedonian">0xAF50AB7C</integer>
+    <integer name="subtype_malagasy">0xAC6E9512</integer>
+    <integer name="subtype_malay_malaysia">0x84C87C61</integer>
+    <integer name="subtype_malayalam_india">0xC182EBD4</integer>
+    <integer name="subtype_maltese">0x31B728D5</integer>
+    <integer name="subtype_manx">0x881779A6</integer>
+    <integer name="subtype_marathi_india">0x747B9F03</integer>
+    <integer name="subtype_mongolian">0xCDCFC3AB</integer>
+    <integer name="subtype_montenegrin_cyrillic">0x40EAFB4B</integer>
+    <integer name="subtype_montenegrin_latin">0x40EAFB2C</integer>
+    <integer name="subtype_nepali_romanized">0xD80A4CEE</integer>
+    <integer name="subtype_nepali_traditional">0x5FAFEA88</integer>
+    <integer name="subtype_northern_sotho">0xBFBB3293</integer>
+    <integer name="subtype_norwegian_bokmal">0x3F12EE14</integer>
+    <integer name="subtype_nyanja">0xC28DA1C5</integer>
+    <integer name="subtype_oromo">0x06BE2BD6</integer>
+    <integer name="subtype_papiamento">0xC7C4961A</integer>
+    <integer name="subtype_pashto">0xC4AD3F1F</integer>
+    <integer name="subtype_persian">0xBE66C254</integer>
+    <integer name="subtype_polish">0x43098A5C</integer>
+    <integer name="subtype_portuguese_africa">0xB78D8C42</integer>
+    <integer name="subtype_portuguese_brazil">0xCAFFF4A6</integer>
+    <integer name="subtype_portuguese_portugal">0xE2FFFC5A</integer>
+    <integer name="subtype_qwerty">0xA239EBAD</integer>
+    <integer name="subtype_romanian">0x8D185978</integer>
+    <integer name="subtype_romanian_moldova">0x90613320</integer>
+    <integer name="subtype_russian">0x763A8752</integer>
+    <integer name="subtype_serbian">0x77C5196E</integer>
+    <integer name="subtype_serbian_latin">0xF4A5569C</integer>
+    <integer name="subtype_sesotho">0xC791F098</integer>
+    <integer name="subtype_shona">0xC791EFDE</integer>
+    <integer name="subtype_sinhala">0x5C6B3BDE</integer>
+    <integer name="subtype_slovak">0x8E94D413</integer>
+    <integer name="subtype_slovenian">0x8EA2EB94</integer>
+    <integer name="subtype_somali">0x06BE3B18</integer>
+    <integer name="subtype_spanish">0x30A6E00E</integer>
+    <integer name="subtype_spanish_argentina">0x3AF01B93</integer>
+    <integer name="subtype_spanish_latin_america">0xA23E5D19</integer>
+    <integer name="subtype_spanish_mexico">0x3AF04959</integer>
+    <integer name="subtype_spanish_united_states">0x84D2EFC6</integer>
+    <integer name="subtype_sranan">0x53C04E0A</integer>
+    <integer name="subtype_sundanese">0x7FC5A731</integer>
+    <integer name="subtype_swahili">0x8F3DEE1F</integer>
+    <integer name="subtype_swedish">0x48B4FF43</integer>
+    <integer name="subtype_tagalog">0xF08285EF</integer>
+    <integer name="subtype_tajik">0x06921D2D</integer>
+    <integer name="subtype_tamil_india">0x67ACEA2A</integer>
+    <integer name="subtype_tamil_singapore">0x785ABBD9</integer>
+    <integer name="subtype_tamil_sri_lanka">0x6CA12D84</integer>
+    <integer name="subtype_tatar">0x66A371AB</integer>
+    <integer name="subtype_telugu_india">0x1E177389</integer>
+    <integer name="subtype_thai">0x1F94D5D4</integer>
+    <integer name="subtype_tibetan">0xAD83D1C4</integer>
+    <integer name="subtype_tok_pisin">0xC7C69F0C</integer>
+    <integer name="subtype_torwali">0xC194A5A0</integer>
+    <integer name="subtype_turkish">0x4A3179DE</integer>
+    <integer name="subtype_turkmen">0xC6745F46</integer>
+    <integer name="subtype_ukrainian">0x3E84492C</integer>
+    <integer name="subtype_urdu_india">0x1552126A</integer>
+    <integer name="subtype_urdu_pakistan">0x0038B0B2</integer>
+    <integer name="subtype_uyghur">0xCE824B51</integer>
+    <integer name="subtype_uzbek_uzbekistan">0xAD5CF7F6</integer>
+    <integer name="subtype_vietnamese">0x93972EEE</integer>
+    <integer name="subtype_welsh">0xC791B523</integer>
+    <integer name="subtype_wolof">0x06C2D554</integer>
+    <integer name="subtype_xhosa">0x9A3BD2C3</integer>
+    <integer name="subtype_yiddish">0xB73729E1</integer>
+    <integer name="subtype_yoruba">0xC7920683</integer>
+    <integer name="subtype_zulu">0x9B13AB76</integer>
+    <integer name="theme_category_span_count">2</integer>
+    <integer name="theme_listing_candidate_body_height">74</integer>
+    <integer name="theme_listing_candidate_header_height">18</integer>
+    <integer name="theme_listing_candidate_height">92</integer>
+    <integer name="update_access_points_order_duration">200</integer>
+    <integer name="weight_sum">1000</integer>
+    <item type="integer" name="APKTOOL_DUMMY_a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_b">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_d">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_e">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_26">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_28">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_37">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_38">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_39">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_3a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_3f">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_40">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_41">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_42">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_43">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_52">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_53">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_54">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_55">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_56">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_62">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_64">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_68">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_6a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_6c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_6d">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_74">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_75">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7d">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7e">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7f">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_80">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_85">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_86">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_87">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_8a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_8b">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_8c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_93">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_94">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_95">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_96">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_b3">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_b9">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_ba">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_bb">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_c7">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_c8">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_c9">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_ca">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_cb">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_cf">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_d0">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_d1">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_d2">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_d3">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_de">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_df">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_e3">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_e5">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_e6">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_e9">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_ed">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_f0">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_f4">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_f5">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_f6">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_ff">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_100">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_101">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_102">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_107">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_108">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_109">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_10a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_10f">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_110">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_111">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_112">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_121">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_122">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_123">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_126">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_12b">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_135">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_143">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_144">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_146">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_148">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_149">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14a">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14b">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14d">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14e">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14f">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_150">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_151">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_152">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_153">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_158">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_159">false</item>
+</resources>

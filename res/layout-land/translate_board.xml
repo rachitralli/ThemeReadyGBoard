@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyboardView android:tag=".background.for-extension" android:background="?BgTranslateBoard" android:layout_width="fill_parent" android:layout_height="@dimen/translate_board_height" allow_mock_action_down="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/translate_board_language_margin_horiz" android:layout_marginRight="@dimen/translate_board_language_margin_horiz" android:layout_weight="300.0">
+            <include layout="@layout/translate_board_language" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="300.0" android:layout_marginEnd="@dimen/translate_board_language_margin_horiz">
+            <include layout="@layout/translate_board_query" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyboardView>

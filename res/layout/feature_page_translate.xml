@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.firstrun.MultipleFramesPageContainer style="@style/FeaturePage.Portrait" multiple_frames_ids="@id/feature_page_multiple_pages"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout style="@style/FeaturePageDemo">
+        <include layout="@layout/feature_page_translate_demo" />
+    </FrameLayout>
+    <LinearLayout style="@style/FeaturePageDemoDescription">
+        <include layout="@layout/feature_page_translate_description" />
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.firstrun.MultipleFramesPageContainer>

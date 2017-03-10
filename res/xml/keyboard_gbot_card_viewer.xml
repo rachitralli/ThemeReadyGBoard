@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.gbot.keyboard.GbotCardViewerKeyboard" id="@id/keyboard_gbot_card_viewer">
+        <view layout="@layout/keyboard_search_result_header_no_theme" scalable="false" direction="locale" type="header">
+            <softkeys href="@xml/softkeys_search_header" />
+            <softkeys href="@xml/softkeys_gbot_header" />
+            <include href="@xml/keymapping_gbot_search_result_header" />
+        </view>
+        <view layout="@layout/keyboard_gbot_body" direction="locale" type="body" />
+    </keyboard>
+</framework>

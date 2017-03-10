@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyboardView android:background="@color/popup_candidates_bar_background" style="@style/Header"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView android:id="@id/softkey_holder_fixed_candidates" style="@style/CandidateBar" best_candidate_width_percentile="0.36" candidate_background="@attr/BgCandidate" candidate_layout="@layout/latin_softkey_candidate_popup" conv2query_candidate_layout="@layout/latin_conv2query_softkey_candidate" last_column_candidate_background="@attr/BgCandidateLastColumn" max_candidates_count="3"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyboardView>
