@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <module class="com.google.android.apps.inputmethod.libs.search.sense.ConversationToQueryExtension" pref-key="@string/pref_key_enable_conv2query" />
+</framework>

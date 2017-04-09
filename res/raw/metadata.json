@@ -1,0 +1,1670 @@
+{
+ "metadataVersion": 20170404,
+ "metadataEntries": [
+  {
+   "locale": "af",
+   "description": "Afrikaans",
+   "update": "1485293105",
+   "filesize": "5098708",
+   "checksum": "2c252180d84277a1a9a2aa7550b67a1c",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_af_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ar",
+   "description": "العربية",
+   "update": "1485293131",
+   "filesize": "4828416",
+   "checksum": "240401308aaa24715bd51399e30d2efc",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ar_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ar_MA",
+   "description": "العربية (المغرب)",
+   "update": "1485293158",
+   "filesize": "4642348",
+   "checksum": "6186ea1dedfe1eba3c29597df8369d71",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ar_ma_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "as",
+   "description": "অসমীয়া",
+   "update": "1490222852",
+   "filesize": "405800",
+   "checksum": "e9971f7b62cb33dd1d9db311b05c1bde",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_as_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "as_XT",
+   "description": "Assamese (abc to অসমীয়া)",
+   "update": "1489615444",
+   "filesize": "1453508",
+   "checksum": "0c5987ed50c55e4f275a25f7cd6e11b1",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_as_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "az_AZ",
+   "description": "Azərbaycan",
+   "update": "1485293181",
+   "filesize": "4714136",
+   "checksum": "46a0ddee809c72184a2dc1bb7a033949",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_az_az_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ba",
+   "description": "Башҡорт теле",
+   "update": "1487359968",
+   "filesize": "561420",
+   "checksum": "1d3cd4c94038e6f6946f927dccfb3a53",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ba_d3_20170217.dict",
+   "version": 20170217
+  },
+  {
+   "locale": "be_BY",
+   "description": "беларуская",
+   "update": "1485293207",
+   "filesize": "4992872",
+   "checksum": "12464c4eeb8f127bdf7e94524bf8fed6",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_be_by_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "bg",
+   "description": "български",
+   "update": "1485293234",
+   "filesize": "5449644",
+   "checksum": "080716b77b2916a31d9a7bf98460ab9e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_bg_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "bn_BD",
+   "description": "বাংলা (বাংলাদেশ)",
+   "update": "1485293263",
+   "filesize": "5216900",
+   "checksum": "ba353037e38d1a2fbd092c7323467d2c",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_bn_bd_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "bn_IN",
+   "description": "বাংলা (ভারত)",
+   "update": "1490222866",
+   "filesize": "5647424",
+   "checksum": "4def633ab7f22d609af9f2d371e33980",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_bn_in_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "bn_XU",
+   "description": "Bengali (abc to বাংলা)",
+   "update": "1489615641",
+   "filesize": "5069724",
+   "checksum": "3d47c4a4aff01d0c59d5e823601c880b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_bn_xu_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "brx_XD",
+   "description": "बर'",
+   "update": "1490222902",
+   "filesize": "355516",
+   "checksum": "ace390fdebefda8ccdbbf464f4b83a60",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_brx_xd_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "brx_XE",
+   "description": "ডোগ্রি",
+   "update": "1490222892",
+   "filesize": "306204",
+   "checksum": "d1268c05d296f0f79f495c59587386ee",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_brx_xe_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "brx_XU",
+   "description": "Bodo (abc to ডোগ্রি)",
+   "update": "1489615686",
+   "filesize": "27140",
+   "checksum": "53c3d1ca9cae211b55e9f2db00dbf5d0",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_brx_xu_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "brx_XV",
+   "description": "Bodo (abc to बर')",
+   "update": "1489615709",
+   "filesize": "581176",
+   "checksum": "d73032465173574aef344235a4081ef4",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_brx_xv_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "bs",
+   "description": "Bosanski",
+   "update": "1485293339",
+   "filesize": "4820692",
+   "checksum": "131cdd40b94e5565c5b5b9b53508abd1",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_bs_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ca",
+   "description": "Català",
+   "update": "1485293365",
+   "filesize": "5373384",
+   "checksum": "061fa616e0cf0cbbffe9ce456b27bcac",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ca_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ceb",
+   "description": "Sinugboanon",
+   "update": "1485293393",
+   "filesize": "878864",
+   "checksum": "d764bbaf0d62a86cf7edc97469f684e0",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ceb_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "co",
+   "description": "Corsu",
+   "update": "1485293409",
+   "filesize": "4742168",
+   "checksum": "c532fb4fb31b6b5342ffc4630bf1c989",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_co_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "cs",
+   "description": "Čeština",
+   "update": "1485293435",
+   "filesize": "6023588",
+   "checksum": "163551bd6b9bc153ed13627fe5e6269c",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_cs_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "cy",
+   "description": "Cymraeg",
+   "update": "1485293464",
+   "filesize": "4976472",
+   "checksum": "bb373a69f0977f466c5ca8be52ab9e68",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_cy_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "da",
+   "description": "Dansk",
+   "update": "1485307078",
+   "filesize": "5336784",
+   "checksum": "980281c22aeeac38317563b6300033a9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_da_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "de_CH",
+   "description": "Deutsch (Schweiz)",
+   "update": "1485293495",
+   "filesize": "5587832",
+   "checksum": "730ac709b6bbfecf3b4cfd4f90b4eb62",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_de_ch_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "de_DE",
+   "description": "Deutsch",
+   "update": "1485489135",
+   "filesize": "5239380",
+   "checksum": "efcd65323d74171f15dc1d49b56cfb3e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_de_de_d3_20170126.dict",
+   "version": 20170126
+  },
+  {
+   "locale": "doi_XC",
+   "description": "ڈوگرى",
+   "update": "1490222916",
+   "filesize": "369476",
+   "checksum": "b18a2c49ac5cdcab96fcd85ea8c01447",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_doi_xc_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "doi_XD",
+   "description": "डोगरी",
+   "update": "1490222929",
+   "filesize": "362456",
+   "checksum": "1eacc1bfcf48531059b56bebd09e28b9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_doi_xd_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "doi_XT",
+   "description": "Dogri (abc to ڈوگرى)",
+   "update": "1489615742",
+   "filesize": "858620",
+   "checksum": "ccae7b7e51251628c52cfbdfeab0ffe3",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_doi_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "doi_XU",
+   "description": "Dogri (abc to डोगरी)",
+   "update": "1489615761",
+   "filesize": "804364",
+   "checksum": "c16c07dd53758007c357806a3480764f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_doi_xu_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "el",
+   "description": "Ελληνικά",
+   "update": "1485293550",
+   "filesize": "5491452",
+   "checksum": "d4991ee9ea1f3d0b00618dbd6c2ff9b6",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_el_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_AU",
+   "description": "English (Australia)",
+   "update": "1485293578",
+   "filesize": "5422004",
+   "checksum": "821f0f6ccab3c3d396504ae5993b9a94",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_au_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_CA",
+   "description": "English (Canada)",
+   "update": "1485293606",
+   "filesize": "5376808",
+   "checksum": "3a06cf07bde366e00cd8b2e77ab6a897",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_ca_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_GB",
+   "description": "English (UK)",
+   "update": "1490206188",
+   "filesize": "5118836",
+   "checksum": "f1f0fb848acc4e6b20808bea916091d5",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_gb_d3_20170321.dict",
+   "version": 20170321
+  },
+  {
+   "locale": "en_IN",
+   "description": "English (India)",
+   "update": "1485293658",
+   "filesize": "5564076",
+   "checksum": "e6520d602fb629ad6b6b432f9f7df403",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_in_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_KE",
+   "description": "English (Kenya)",
+   "update": "1485293687",
+   "filesize": "5416792",
+   "checksum": "e178b1d59dc8976d9c55d0fbd1dfecaf",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_ke_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_NG",
+   "description": "English (Nigeria)",
+   "update": "1485293716",
+   "filesize": "5403352",
+   "checksum": "fe761724cb64bc85928a0db1ba034922",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_ng_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_PH",
+   "description": "English (Philippines)",
+   "update": "1485293742",
+   "filesize": "5369136",
+   "checksum": "097da81e4aa64882668687fd4e5f9f8b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_ph_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "en_US",
+   "description": "English (US)",
+   "update": "1491325476",
+   "filesize": "5231784",
+   "checksum": "5db7b213cdc16a9dfd706ad95467ef00",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_us_d3_20170404.dict",
+   "version": 20170404
+  },
+  {
+   "locale": "en_ZA",
+   "description": "English (South Africa)",
+   "update": "1485293796",
+   "filesize": "5376928",
+   "checksum": "01a50bde150c1e1e26694829ac332f1e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_en_za_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "eo",
+   "description": "Esperanto",
+   "update": "1485293824",
+   "filesize": "4885368",
+   "checksum": "f59344f3278b5d8833e947bb49bd9ce2",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_eo_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "es_419",
+   "description": "Español (Latinoamérica)",
+   "update": "1485293849",
+   "filesize": "5076264",
+   "checksum": "c14a73fcc0361ee9543f31b6aa014428",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_es_419_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "es_AR",
+   "description": "Español (Argentina)",
+   "update": "1485293874",
+   "filesize": "4988652",
+   "checksum": "877d2e5f63e8fdb9e2882baef2deb2a1",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_es_ar_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "es_ES",
+   "description": "Español (España)",
+   "update": "1485293902",
+   "filesize": "4961192",
+   "checksum": "fdb9a4a18146a01172b618dadcda6d66",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_es_es_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "es_MX",
+   "description": "Español (México)",
+   "update": "1485293930",
+   "filesize": "5161424",
+   "checksum": "05c66effafe9c09f49eb1c79bd740aba",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_es_mx_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "es_US",
+   "description": "Español (Estados Unidos)",
+   "update": "1485293957",
+   "filesize": "4944308",
+   "checksum": "c8ec95017a0f4014666649a11b9761fa",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_es_us_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "et_EE",
+   "description": "Eesti",
+   "update": "1485293984",
+   "filesize": "5097872",
+   "checksum": "78201482e2b6bfda62da34538f7e6426",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_et_ee_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "eu_ES",
+   "description": "Euskara (Espainia)",
+   "update": "1485294011",
+   "filesize": "4799640",
+   "checksum": "85ed3eac0494c36275bb7d2313a36009",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_eu_es_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fa",
+   "description": "فارسی",
+   "update": "1487725957",
+   "filesize": "5058028",
+   "checksum": "394c7fa77e97ff3ece2459fb430cce7f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fa_d3_20170221.dict",
+   "version": 20170221
+  },
+  {
+   "locale": "fa_AF",
+   "description": "دری",
+   "update": "1485294064",
+   "filesize": "946312",
+   "checksum": "e983f09f6bf54f63d6776f60c755dde1",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fa_af_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fi",
+   "description": "Suomi",
+   "update": "1485294082",
+   "filesize": "5343356",
+   "checksum": "8f68fc7aa649b8d9e05e89e922aeed83",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fi_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fr_002",
+   "description": "Français (Afrique)",
+   "update": "1485294108",
+   "filesize": "4876412",
+   "checksum": "b1d6a1092ee46fa1eda52a8164bbad6f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fr_002_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fr_BE",
+   "description": "French (Belgium)",
+   "update": "1489622825",
+   "filesize": "4976372",
+   "checksum": "ebe4d2a1a121932c7dd996615d3163c7",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fr_be_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "fr_CA",
+   "description": "Français (Canada)",
+   "update": "1485294134",
+   "filesize": "5236276",
+   "checksum": "48642a73f8bca0e9f2ad8ae5a1cfe079",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fr_ca_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fr_CH",
+   "description": "Français (Suisse)",
+   "update": "1485294160",
+   "filesize": "4939320",
+   "checksum": "3c41037896a88b641a5a048bc18847ad",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fr_ch_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fr_FR",
+   "description": "Français",
+   "update": "1485294188",
+   "filesize": "5250092",
+   "checksum": "d9cc63745687a521f9336fe0f70ad823",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fr_fr_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "fy",
+   "description": "West-Frysk",
+   "update": "1485294215",
+   "filesize": "5332592",
+   "checksum": "fd68e40e9297d3f601d53425876d623e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_fy_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ga",
+   "description": "Gaeilge",
+   "update": "1485294243",
+   "filesize": "4850568",
+   "checksum": "402c83b47d9d663137142b3526ce8b92",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ga_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "gl_ES",
+   "description": "Galego",
+   "update": "1485294270",
+   "filesize": "4727036",
+   "checksum": "161b33734543e9336e425825cd719184",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_gl_es_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "gn",
+   "description": "Avañe'ẽ",
+   "update": "1485294296",
+   "filesize": "905120",
+   "checksum": "e2f8629a69610a3ad977c8e300383fbe",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_gn_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "gu",
+   "description": "ગુજરાતી",
+   "update": "1490838386",
+   "filesize": "5132196",
+   "checksum": "4dd7916a1dee47115dab67555fb0696e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_gu_d3_20170329.dict",
+   "version": 20170329
+  },
+  {
+   "locale": "gu_XT",
+   "description": "Gujarati (abc to ગુજરાતી)",
+   "update": "1489615783",
+   "filesize": "4878160",
+   "checksum": "a09a30710823db59b37fd8f20d6857e3",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_gu_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "gv",
+   "description": "Gaelg",
+   "update": "1485307270",
+   "filesize": "3086740",
+   "checksum": "8feb9c77c63fb92efadceda27fcfd957",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_gv_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ha",
+   "description": "Hausa",
+   "update": "1485294332",
+   "filesize": "938336",
+   "checksum": "362002360cba717c5b5a92c85013ea67",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ha_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "hi",
+   "description": "हिन्दी",
+   "update": "1485294347",
+   "filesize": "5462564",
+   "checksum": "b2dd411de43e1cb0a2cdf1e470b56b73",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hi_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "hi_XA",
+   "description": "Hinglish",
+   "update": "1485307110",
+   "filesize": "5661008",
+   "checksum": "7f2e2632f3edd69a25aaf1c920ecead2",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hi_xa_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "hi_XT",
+   "description": "Hindi (abc to हिन्दी)",
+   "update": "1489615805",
+   "filesize": "4452780",
+   "checksum": "2b09097c4f0f947427a73d92ec445b5b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hi_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "hmn",
+   "description": "lus Hmoob",
+   "update": "1485294378",
+   "filesize": "1040704",
+   "checksum": "9e4671e0147585a60572079287b5bfd9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hmn_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "hr",
+   "description": "Hrvatski",
+   "update": "1485294395",
+   "filesize": "4710540",
+   "checksum": "d30ffea50f272b8f688c1f9410082b67",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hr_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ht",
+   "description": "Kreyòl",
+   "update": "1485294421",
+   "filesize": "3376804",
+   "checksum": "3bb1db11028d9df9f78d053ad862641a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ht_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "hu",
+   "description": "Magyar",
+   "update": "1485294443",
+   "filesize": "4963600",
+   "checksum": "df4a096b3bff1c7434d32e24e672ecfa",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hu_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "hy_AM",
+   "description": "հայերեն",
+   "update": "1485294468",
+   "filesize": "5467892",
+   "checksum": "2b4dc0e4337bff23e9298c29b4eeb72d",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_hy_am_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ig",
+   "description": "Igbo",
+   "update": "1485294498",
+   "filesize": "146388",
+   "checksum": "76e6cab85e870bd6cfae155a1586a6ce",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ig_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "in",
+   "description": "Bahasa Indonesia",
+   "update": "1485294510",
+   "filesize": "5131292",
+   "checksum": "daa7fb503e309423b9ddcb66b941a867",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_in_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "is",
+   "description": "Íslenska",
+   "update": "1485294536",
+   "filesize": "5070308",
+   "checksum": "f4427d64831563bc45a8fb3deb90efcd",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_is_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "it_CH",
+   "description": "Italiano (Svizzera)",
+   "update": "1485294563",
+   "filesize": "4946672",
+   "checksum": "ceaadb32b6794971b6c8dabbb336d923",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_it_ch_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "it_IT",
+   "description": "Italiano",
+   "update": "1485294591",
+   "filesize": "5159644",
+   "checksum": "a4a8c4bfbf9ce82570529ac2673d6fa9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_it_it_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "iw",
+   "description": "עברית",
+   "update": "1485294618",
+   "filesize": "4450904",
+   "checksum": "e7107636b98b5fb21fee6403c1cbb011",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_iw_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ji",
+   "description": "יידיש",
+   "update": "1485294643",
+   "filesize": "3386880",
+   "checksum": "68fbacf7d22c69dcb126c82fb8c2a1f3",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ji_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "jv",
+   "description": "Basa Jawa",
+   "update": "1485294668",
+   "filesize": "5011244",
+   "checksum": "7333cad31a3dbb528b14ab53d0df37c8",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_jv_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ka",
+   "description": "ქართული",
+   "update": "1485294695",
+   "filesize": "4944120",
+   "checksum": "5633ab5ae978ce609d03bb88860d920b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ka_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "kk",
+   "description": "қазақ тілі",
+   "update": "1485294721",
+   "filesize": "4650672",
+   "checksum": "97a087703ff90bfc6fb4d96a613dfce5",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "kl",
+   "description": "Kalaallisut",
+   "update": "1485294748",
+   "filesize": "211652",
+   "checksum": "f7217fadae8ce07562fc94ffad276cb0",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kl_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "kn_IN",
+   "description": "Kannada (India)",
+   "update": "1490222966",
+   "filesize": "6969092",
+   "checksum": "1662fd3c763e2f9a498a5adcb2e6060b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kn_in_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "kn_XT",
+   "description": "Kannada (abc to ಕನ್ನಡ)",
+   "update": "1489615829",
+   "filesize": "5980024",
+   "checksum": "5961cc405491ae85eeb56b5ef32c401d",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kn_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "kok_XA",
+   "description": "Konknni",
+   "update": "1490223009",
+   "filesize": "265024",
+   "checksum": "9f977329c62fbc4c87a5b45693cc0d5a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kok_xa_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "kok_XD",
+   "description": "कोंकणी",
+   "update": "1490222995",
+   "filesize": "285312",
+   "checksum": "5d190dce4d8fe9d5a8490b8433bf4abe",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kok_xd_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "kok_XT",
+   "description": "Konkani (abc to कोंकणी)",
+   "update": "1489616811",
+   "filesize": "552944",
+   "checksum": "975966cb136c431f7d102d6239fa443a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_kok_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "ks_XC",
+   "description": "کأشُر",
+   "update": "1490223026",
+   "filesize": "226212",
+   "checksum": "27b838f10d93144f6da932ec60ef0a74",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ks_xc_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "ks_XD",
+   "description": "कॉशुर",
+   "update": "1490223042",
+   "filesize": "217192",
+   "checksum": "4a3f4d873a12ccb855a1312b058371a5",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ks_xd_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "ks_XT",
+   "description": "Kashmiri (abc to کأشُر)",
+   "update": "1489616827",
+   "filesize": "449296",
+   "checksum": "42c105f2a5e966678558ad559fafabc2",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ks_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "ks_XU",
+   "description": "Kashmiri (abc to कॉशुर)",
+   "update": "1489616844",
+   "filesize": "272676",
+   "checksum": "a932678ace8af3b2d0bbe7b478129077",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ks_xu_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "ku",
+   "description": "Kurdî",
+   "update": "1485294763",
+   "filesize": "5059208",
+   "checksum": "93ee47f102f7dc29c9f85231d6e43126",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ku_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ku_IQ",
+   "description": "کوردی",
+   "update": "1485294791",
+   "filesize": "2989656",
+   "checksum": "2d0075058aee1bb63836d4b4306fcbeb",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ku_iq_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ky",
+   "description": "Кыргыз",
+   "update": "1485294814",
+   "filesize": "4832284",
+   "checksum": "85f7711a81718a47ce9e3bb2f41103a3",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ky_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "la",
+   "description": "Lingua Latina",
+   "update": "1485294841",
+   "filesize": "4362680",
+   "checksum": "cee6efe05728539677a3e6b58f9e28f6",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_la_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "lb",
+   "description": "Lëtzebuergesch",
+   "update": "1485294866",
+   "filesize": "4474180",
+   "checksum": "34fe0719f35bb168e185db2a47cd78ff",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_lb_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "lt",
+   "description": "Lietuvių",
+   "update": "1485294890",
+   "filesize": "4829640",
+   "checksum": "211608eb48d4e766752620d2d5dccfc3",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_lt_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "lv",
+   "description": "Latviešu",
+   "update": "1485294916",
+   "filesize": "5155108",
+   "checksum": "75b89412fca43ee0728358963177250f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_lv_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "mai",
+   "description": "मैथिल",
+   "update": "1490223054",
+   "filesize": "202920",
+   "checksum": "0cda42e7543cbae5b1c78536600fb173",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mai_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "mai_XT",
+   "description": "Maithili (abc to मैथिल)",
+   "update": "1489616860",
+   "filesize": "203076",
+   "checksum": "0edf49b5c184568aa99a65bc2a42db78",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mai_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "mg",
+   "description": "Malagasy",
+   "update": "1485294943",
+   "filesize": "1478340",
+   "checksum": "cb920463ad55b8b00c437e112e0844c4",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mg_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "mk",
+   "description": "Македонски",
+   "update": "1485294960",
+   "filesize": "4703644",
+   "checksum": "3b65539ea1e00b98f36a3f1099015ab3",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ml_IN",
+   "description": "Malayalam (India)",
+   "update": "1490223067",
+   "filesize": "5574304",
+   "checksum": "db1a93a71f8d7a81e2d7aa51a0dfcd77",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ml_in_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "ml_XT",
+   "description": "Malayalam (abc to മലയാളം)",
+   "update": "1489616875",
+   "filesize": "6220616",
+   "checksum": "e97b3ab8e61d83f1d912b8ab12d177ba",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ml_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "mn_MN",
+   "description": "Монгол (Монгол)",
+   "update": "1485294986",
+   "filesize": "4885248",
+   "checksum": "8ad1860ef55b70a3b1ec3deb4786013e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mn_mn_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "mni_XE",
+   "description": "মৈতৈ",
+   "update": "1490223096",
+   "filesize": "185468",
+   "checksum": "118abada89be9f2ca880648e3039aaf4",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mni_xe_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "mni_XT",
+   "description": "Meitei (abc to মৈতৈ)",
+   "update": "1489616897",
+   "filesize": "309076",
+   "checksum": "4544b5733c66dfc2ea92f171abcfcb78",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mni_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "mr_IN",
+   "description": "Marathi (India)",
+   "update": "1490223114",
+   "filesize": "5131528",
+   "checksum": "9db4b845335b26a6401b06812535e812",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mr_in_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "mr_XT",
+   "description": "Marathi (abc to मराठी)",
+   "update": "1489616913",
+   "filesize": "5105752",
+   "checksum": "29ea55b182c605c71ab5e1912ac80301",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mr_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "ms_MY",
+   "description": "Bahasa Melayu",
+   "update": "1485295012",
+   "filesize": "4744840",
+   "checksum": "1d9bb083841e9ad2847efa5f9e2bc86b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ms_my_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "mt",
+   "description": "Malti",
+   "update": "1485295038",
+   "filesize": "4431508",
+   "checksum": "30e1a4a6c0e6e4a96ce4cddd5d83e90b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_mt_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "my",
+   "description": "ဗမာ",
+   "update": "1485295064",
+   "filesize": "3536408",
+   "checksum": "68b2e664517e917d15a6d4b6928483e9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_my_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "nb",
+   "description": "Norsk bokmål",
+   "update": "1485295089",
+   "filesize": "5624312",
+   "checksum": "c8ac708fa97b7c81fff419259a11cf53",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_nb_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ne_IN",
+   "description": "Nepali (India)",
+   "update": "1490223147",
+   "filesize": "5360820",
+   "checksum": "92c5c28dfb1a08f459d22cceb0dc67af",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ne_in_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "ne_NP",
+   "description": "नेपाली (नेपाल)",
+   "update": "1485295117",
+   "filesize": "5365492",
+   "checksum": "8f7e4b54883cbaf9bac2c1c598eada7a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ne_np_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ne_XT",
+   "description": "Nepali (abc to नेपाली)",
+   "update": "1489616933",
+   "filesize": "5694696",
+   "checksum": "2f505b894c0656afe4d602cd12e807cd",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ne_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "nl",
+   "description": "Nederlands",
+   "update": "1485489424",
+   "filesize": "5224100",
+   "checksum": "f7c84eb6474cf6725364f60004fb6f6f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_nl_d3_20170126.dict",
+   "version": 20170126
+  },
+  {
+   "locale": "nl_BE",
+   "description": "Nederlands (België)",
+   "update": "1485489632",
+   "filesize": "5164376",
+   "checksum": "7e642826e5333f64ccd600f992dd87ab",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_nl_be_d3_20170126.dict",
+   "version": 20170126
+  },
+  {
+   "locale": "nso",
+   "description": "Sesotho sa Leboa",
+   "update": "1485295200",
+   "filesize": "249056",
+   "checksum": "f7a3e2e5b3bae0b5229a00ac97288a1a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_nso_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ny",
+   "description": "Nyanja",
+   "update": "1485295212",
+   "filesize": "252004",
+   "checksum": "63f7d0a45b4fa12c5755a2256edba167",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ny_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "om",
+   "description": "Oromoo",
+   "update": "1485295224",
+   "filesize": "384244",
+   "checksum": "e2c368c652939b667463b5867eed3aa2",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_om_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "or",
+   "description": "ଓଡ଼ିଆ",
+   "update": "1490838357",
+   "filesize": "3976536",
+   "checksum": "32a877366f53811cd8b0ecaa39143c12",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_or_d3_20170329.dict",
+   "version": 20170329
+  },
+  {
+   "locale": "or_XT",
+   "description": "Oriya (abc to ଓଡ଼ିଆ)",
+   "update": "1489616953",
+   "filesize": "5589096",
+   "checksum": "5840b0781523ecd657f490b399696a03",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_or_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "pa_PK",
+   "description": "پنجابی",
+   "update": "1490233361",
+   "filesize": "1102344",
+   "checksum": "cdb25df490630803feca1ee94112556b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pa_pk_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "pa_XF",
+   "description": "ਪੰਜਾਬੀ",
+   "update": "1490838415",
+   "filesize": "4997140",
+   "checksum": "74e67825e0c79c0bd6e83f8480fc6819",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pa_xf_d3_20170329.dict",
+   "version": 20170329
+  },
+  {
+   "locale": "pa_XT",
+   "description": "Panjabi (abc to پنجابی)",
+   "update": "1489616973",
+   "filesize": "4432880",
+   "checksum": "194c4ec70963062d704a0c54b5579bb4",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pa_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "pa_XV",
+   "description": "Panjabi (abc to ਪੰਜਾਬੀ)",
+   "update": "1489616993",
+   "filesize": "4613244",
+   "checksum": "58f7c36baa8983da2c201b13430f5e92",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pa_xv_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "pap",
+   "description": "Papiamentu",
+   "update": "1485295237",
+   "filesize": "410484",
+   "checksum": "12f4c4361274b2000321eb9fbebf3bb9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pap_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "pl",
+   "description": "Polski",
+   "update": "1485295251",
+   "filesize": "4828984",
+   "checksum": "2949af465b8f6d3f7196972e46162910",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pl_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ps",
+   "description": "پښتو",
+   "update": "1485295277",
+   "filesize": "4234184",
+   "checksum": "aa7bf5b23646ebfdd7ce4e10c0677f26",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ps_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "pt_002",
+   "description": "Português (África)",
+   "update": "1485307167",
+   "filesize": "4784584",
+   "checksum": "e8e65f25a7e1cba40d11c35d864f2a02",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pt_002_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "pt_BR",
+   "description": "Português (Brasil)",
+   "update": "1485295306",
+   "filesize": "4937048",
+   "checksum": "4ced0de82d885fd17a40ac19d347df86",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pt_br_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "pt_PT",
+   "description": "Português (Portugal)",
+   "update": "1485295336",
+   "filesize": "5144904",
+   "checksum": "b2fe687b1df52f7382132812e93cc005",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_pt_pt_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ro",
+   "description": "Română",
+   "update": "1485295362",
+   "filesize": "4935888",
+   "checksum": "82841c5f096ccfca02ea20a48ea75494",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ro_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ro_MD",
+   "description": "Română (Republica Moldova)",
+   "update": "1485295389",
+   "filesize": "5134056",
+   "checksum": "2dc4f9a5b11f3531b2248c6fe71ca508",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ro_md_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ru_RU",
+   "description": "Русский",
+   "update": "1485295417",
+   "filesize": "4710408",
+   "checksum": "17426cfd0db3774c72c26afa46fcb725",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ru_ru_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "rw",
+   "description": "Kinyarwanda",
+   "update": "1489622905",
+   "filesize": "4663216",
+   "checksum": "ea2113bb1a37f5968c1778fccb1eece0",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_rw_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "sa",
+   "description": "संस्कृतम्",
+   "update": "1490223242",
+   "filesize": "3557444",
+   "checksum": "4b1c25d4dbe3b9507d5dffba479b6e1b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sa_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "sa_XT",
+   "description": "Sanskrit (abc to संस्कृतम्)",
+   "update": "1489617013",
+   "filesize": "4592288",
+   "checksum": "71bd4ed9e991f1163f349ee67aba8b84",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sa_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "sat_XA",
+   "description": "Ho̠ṛ",
+   "update": "1490223272",
+   "filesize": "230032",
+   "checksum": "5239eee8132dc368a0c3099cb389d5c1",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sat_xa_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "sat_XF",
+   "description": "ᱥᱟᱱᱛᱟᱞᱤ",
+   "update": "1490223285",
+   "filesize": "25116",
+   "checksum": "7a592ff0fbd18878186ab785a76f18f2",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sat_xf_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "sat_XT",
+   "description": "Santali (abc to ᱥᱟᱱᱛᱟᱞᱤ)",
+   "update": "1489617033",
+   "filesize": "98792",
+   "checksum": "bd1378157cbfe7aebf5dc5d60edf4cdc",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sat_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "sd_XC",
+   "description": "سنڌي",
+   "update": "1490223297",
+   "filesize": "4202624",
+   "checksum": "03ee7ed0b16790748b87805baa573c52",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sd_xc_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "sd_XD",
+   "description": "सिन्धी",
+   "update": "1490223322",
+   "filesize": "458824",
+   "checksum": "26d55d7bdb06f232e7c218bf252f33df",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sd_xd_d3_20170322.dict",
+   "version": 20170322
+  },
+  {
+   "locale": "sd_XT",
+   "description": "Sindhi (abc to سنڌي)",
+   "update": "1489617049",
+   "filesize": "4319340",
+   "checksum": "164a84491eac68d74b7c3ac445b5f22f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sd_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "sd_XV",
+   "description": "Sindhi (abc to सिन्धी)",
+   "update": "1489617068",
+   "filesize": "1029468",
+   "checksum": "afc7fdb3097e4d9edadfd081306564ee",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sd_xv_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "si_LK",
+   "description": "සිංහල (ශ්‍රී ලංකාව)",
+   "update": "1485295442",
+   "filesize": "4916488",
+   "checksum": "6392f7d8a92eaeaec2d200f6934f9130",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_si_lk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sk",
+   "description": "Slovenčina",
+   "update": "1485295469",
+   "filesize": "4828260",
+   "checksum": "1fd7cdbfb70e7a49af4a165f5cd1485a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sl",
+   "description": "Slovenščina",
+   "update": "1485295495",
+   "filesize": "4609760",
+   "checksum": "4ed1421c0b838b35b2b79dcc399278f8",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sl_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sn",
+   "description": "ChiShona",
+   "update": "1485295521",
+   "filesize": "445832",
+   "checksum": "eb3cf7f6e386e42c83fdc3eec2bddf2c",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sn_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "so",
+   "description": "Soomaali",
+   "update": "1485295534",
+   "filesize": "2523028",
+   "checksum": "7db3d54fbf35febf8ece4f0ea12d56c4",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_so_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sq",
+   "description": "Shqip",
+   "update": "1485295556",
+   "filesize": "4343444",
+   "checksum": "33fc5b6df98979546509924cc450093a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sq_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sr",
+   "description": "Српски",
+   "update": "1485295581",
+   "filesize": "4817708",
+   "checksum": "1834e43ec9dbe9de29b17fa179b0ae36",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sr_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sr_XA",
+   "description": "Crnogorski",
+   "update": "1485295607",
+   "filesize": "4760496",
+   "checksum": "e8481002239b359e7e3116b38f2e3464",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sr_xa_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sr_XB",
+   "description": "Црногорски",
+   "update": "1485295632",
+   "filesize": "4871996",
+   "checksum": "40c31302181558e2580fbd9dc01e1517",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sr_xb_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sr_ZZ",
+   "description": "Srpski",
+   "update": "1485295659",
+   "filesize": "4765200",
+   "checksum": "7ebfb21eb54679e898c5d6b0764efd2a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sr_zz_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "st",
+   "description": "Sesotho",
+   "update": "1485295685",
+   "filesize": "167960",
+   "checksum": "af7668034179c5aa529b8056fc6940a9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_st_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "su",
+   "description": "Basa Sunda",
+   "update": "1485295697",
+   "filesize": "5014816",
+   "checksum": "a64222254eba17bb5cba653241bba66f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_su_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sv",
+   "description": "Svenska",
+   "update": "1485295726",
+   "filesize": "5536328",
+   "checksum": "6cf43f58910de0b6cb1f598c41ecab1d",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sv_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "sw",
+   "description": "Kiswahili",
+   "update": "1485295753",
+   "filesize": "4157536",
+   "checksum": "8b9d172f00bdc50ff2fb354a72ae9e16",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_sw_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ta_IN",
+   "description": "தமிழ் (இந்தியா)",
+   "update": "1485295778",
+   "filesize": "5484632",
+   "checksum": "6bbb7e40758815d13287c01d03232843",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ta_in_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ta_LK",
+   "description": "தமிழ் (இலங்கை)",
+   "update": "1485295807",
+   "filesize": "5495860",
+   "checksum": "f2be7943d75c14338131f7f3b503206f",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ta_lk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ta_SG",
+   "description": "தமிழ் (சிங்கப்பூர்)",
+   "update": "1485295836",
+   "filesize": "5377320",
+   "checksum": "52ef0f8c9f32ac9b0eabb5a328b9b73e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ta_sg_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ta_XT",
+   "description": "Tamil (abc to தமிழ்)",
+   "update": "1489694495",
+   "filesize": "6107492",
+   "checksum": "d156bfa8386c024170605d5fcf4194b6",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ta_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "te_IN",
+   "description": "తెలుగు",
+   "update": "1490402887",
+   "filesize": "6922408",
+   "checksum": "bcb877e7d9522441f2f258bba283b026",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_te_in_d3_20170324.dict",
+   "version": 20170324
+  },
+  {
+   "locale": "te_XT",
+   "description": "Telugu (abc to తెలుగు)",
+   "update": "1489617085",
+   "filesize": "5619032",
+   "checksum": "85a75a0b233cc1bef62c2834251dd3c8",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_te_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "tg",
+   "description": "Тоҷикӣ",
+   "update": "1485295864",
+   "filesize": "4407672",
+   "checksum": "4106873fa5f3d6353b068f784703493b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_tg_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "th",
+   "description": "ไทย",
+   "update": "1485295890",
+   "filesize": "4712976",
+   "checksum": "280c6562390af531a09f4a0c8d67956e",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_th_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "tk",
+   "description": "Türkmençe",
+   "update": "1485295917",
+   "filesize": "2996676",
+   "checksum": "2e4a3cda1a0035f205ff5b5ca24ba1db",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_tk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "tl",
+   "description": "Filipino",
+   "update": "1485295940",
+   "filesize": "4837624",
+   "checksum": "5c05f29415f94c975e58e4efa891a22b",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_tl_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "tpi",
+   "description": "Tok Pisin",
+   "update": "1485295965",
+   "filesize": "292552",
+   "checksum": "ed9cee12fa46460edf0186e27a83ed07",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_tpi_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "tr",
+   "description": "Türkçe",
+   "update": "1485295978",
+   "filesize": "4965164",
+   "checksum": "f5921b2aea38d372a724a5f30b21bae9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_tr_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "tt",
+   "description": "Татар",
+   "update": "1485296005",
+   "filesize": "2636184",
+   "checksum": "204f8dfe5bc8206bc85937c52999cd28",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_tt_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ug",
+   "description": "ئۇيغۇرچە",
+   "update": "1485296027",
+   "filesize": "3598868",
+   "checksum": "c9ab046ea8e68e36c909c28547a56d2c",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ug_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "uk",
+   "description": "Українська",
+   "update": "1485296053",
+   "filesize": "4753288",
+   "checksum": "7f2ba135b81e753a1245fdca29a8fe58",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_uk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ur_IN",
+   "description": "اُردُو",
+   "update": "1485296079",
+   "filesize": "4998044",
+   "checksum": "78d8f0355edd286655cc4431534b9545",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ur_in_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ur_PK",
+   "description": "اُردُو",
+   "update": "1485296106",
+   "filesize": "5010952",
+   "checksum": "2fe2c3992162fa830f6318a2bcd162d9",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ur_pk_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "ur_XT",
+   "description": "Urdu (abc to اُردُو)",
+   "update": "1489617105",
+   "filesize": "4462012",
+   "checksum": "fcf81150e596617f0d1bb548c26c26fb",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_ur_xt_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "uz",
+   "description": "Ўзбек",
+   "update": "1485296132",
+   "filesize": "5123424",
+   "checksum": "faa2ec9574bcb08b117f3333be1764ea",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_uz_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "vi",
+   "description": "Tiếng Việt",
+   "update": "1485296160",
+   "filesize": "3919768",
+   "checksum": "3691b3b9685d39af10d7cf1817a87455",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_vi_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "war",
+   "description": "Waray-Waray",
+   "update": "1489622945",
+   "filesize": "1015712",
+   "checksum": "95786d4601ff889253ee4338b3743add",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_war_d3_20170315.dict",
+   "version": 20170315
+  },
+  {
+   "locale": "wo",
+   "description": "Wolof",
+   "update": "1485296184",
+   "filesize": "4844196",
+   "checksum": "78b8037c95fbdf4d828161aa757d1d8d",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_wo_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "xh",
+   "description": "Xhosa",
+   "update": "1485296211",
+   "filesize": "2146140",
+   "checksum": "d7a3eb2913c5b2a42b42df66d4d45c7a",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_xh_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "yo",
+   "description": "Èdè Yorùbá",
+   "update": "1485296233",
+   "filesize": "3346516",
+   "checksum": "401248e5cd2beedec58172cf7a4f2405",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_yo_d3_20170124.dict",
+   "version": 20170124
+  },
+  {
+   "locale": "zu",
+   "description": "IsiZulu",
+   "update": "1485296257",
+   "filesize": "1529732",
+   "checksum": "a9a6405697bed858de877c4f8da7ae35",
+   "url": "https://www.gstatic.com/android/keyboard/dictionarypack/ElectricPiano-normal/main_zu_d3_20170124.dict",
+   "version": 20170124
+  }
+ ]
+}

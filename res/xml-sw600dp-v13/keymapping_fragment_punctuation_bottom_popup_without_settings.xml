@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="LANG_AR,LANG_AR_MA,LANG_AZ_IR,LANG_BRX_XD,LANG_DOI_XD,LANG_FA,LANG_CA,LANG_CR_CA,LANG_ES_ES,LANG_ES_419,LANG_ES_US,LANG_HY_AM,LANG_IW,LANG_JI,LANG_HI,LANG_KOK_XD,LANG_KS_XC,LANG_KS_XD,LANG_MNI_XE,LANG_NE_IN,LANG_NE_NP,LANG_PA_PK,LANG_SD_XC,LANG_TRW,LANG_UG,LANG_UR_IN,LANG_UR_PK,LANG_UR_XT,LANG_GU">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_period_popup" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_AR,LANG_AR_MA,LANG_AZ_IR,LANG_DOI_XC,LANG_DOI_XT,LANG_DV_MV,LANG_FA,LANG_KS_XC,LANG_KS_XT,LANG_PA_PK,LANG_PA_XT,LANG_SD_XC,LANG_SD_XT,LANG_TRW,LANG_UG,LANG_UR_IN,LANG_UR_PK,LANG_UR_XT">
+        <merge view_id="@id/key_pos_bottom_symbol_1" key_id="@id/softkey_fragment_bottom_comma_popup_arabic" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_AR,LANG_AR_MA,LANG_AZ_IR,LANG_DOI_XC,LANG_FA,LANG_PA_PK,LANG_SD_XC,LANG_UG">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_period_popup_arabic" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_KS_XC" exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_period_popup_kashmiri" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_TRW,LANG_UR_IN,LANG_UR_PK,LANG_UR_XT">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_bottom_period_urdu" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_CA">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_period_popup_catalan" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_ES_ES,LANG_ES_419,LANG_ES_US">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_period_popup_spanish" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_IW,LANG_JI">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_period_popup_hebrew" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_AS_XT,LANG_BRX_XD,LANG_DOI_XD,LANG_HI,LANG_HI_XT,LANG_KOK_XD,LANG_KS_XD,LANG_MAI,LANG_MNI_XE,LANG_NE_NP,LANG_OR,LANG_PA_XF">
+        <merge view_id="@id/key_pos_bottom_symbol_2" key_id="@id/softkey_fragment_bottom_danda_popup" />
+    </merge_key_mapping>
+</framework>

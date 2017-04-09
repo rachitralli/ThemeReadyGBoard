@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="300.0">
+        <FrameLayout android:id="@id/translate_board_source_language_frame" android:layout_alignParentStart="true" style="@style/TranslateBoardLanguageBarLabelFrame">
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/translate_settings_source" style="@style/TranslateBoardLanguageBarLabel" />
+        </FrameLayout>
+        <FrameLayout android:layout_toEndOf="@id/translate_board_source_language_frame" style="@style/TranslateBoardLanguageBarDropDownFrame">
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/translate_settings_source_drop_down" style="@style/TranslateBoardLanguageBarIcon" />
+        </FrameLayout>
+    </RelativeLayout>
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/translate_settings_switch" style="@style/TranslateBoardLanguageBarIcon" />
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="300.0">
+        <FrameLayout android:id="@id/translate_board_target_drop_down_frame" android:layout_alignParentEnd="true" style="@style/TranslateBoardLanguageBarDropDownFrame">
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/translate_settings_target_drop_down" style="@style/TranslateBoardLanguageBarIcon" />
+        </FrameLayout>
+        <FrameLayout android:layout_toStartOf="@id/translate_board_target_drop_down_frame" style="@style/TranslateBoardLanguageBarLabelFrame">
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.SoftKeyView android:id="@id/translate_settings_target" style="@style/TranslateBoardLanguageBarLabel" />
+        </FrameLayout>
+    </RelativeLayout>
+</LinearLayout>

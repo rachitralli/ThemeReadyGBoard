@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime string_id="ime_nepali_nepal_traditional" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" language="ne_NP" auto_capital="false" display_app_completions="true">
+        <keyboard_group variant="nepali_nepal_traditional">
+            <keyboard type="prime" def="@xml/keyboard_ne_traditional" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <keyboard_group variant="nepali_nepal_traditional_with_numbers" keyboard_height_ratio="@dimen/keyboard_height_ratio_5_rows">
+            <keyboard type="prime" def="@xml/keyboard_ne_traditional">
+                <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

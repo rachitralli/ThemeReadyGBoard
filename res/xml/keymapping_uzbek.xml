@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping view_id="@id/key_pos_0_0" key_id="@id/softkey_latin_q" />
+        <mapping view_id="@id/key_pos_0_1" key_id="@id/softkey_latin_w" />
+        <mapping view_id="@id/key_pos_0_2" key_id="@id/softkey_latin_e" />
+        <mapping view_id="@id/key_pos_0_3" key_id="@id/softkey_latin_r" />
+        <mapping view_id="@id/key_pos_0_4" key_id="@id/softkey_latin_t" />
+        <mapping view_id="@id/key_pos_0_5" key_id="@id/softkey_latin_y" />
+        <mapping view_id="@id/key_pos_0_6" key_id="@id/softkey_latin_u" />
+        <mapping view_id="@id/key_pos_0_7" key_id="@id/softkey_latin_i" />
+        <mapping view_id="@id/key_pos_0_8" key_id="@id/softkey_latin_o" />
+        <mapping view_id="@id/key_pos_0_9" key_id="@id/softkey_latin_p" />
+        <mapping view_id="@id/key_pos_0_10" key_id="@id/softkey_latin_o_with_modifier_letter_turned_comma" />
+        <mapping view_id="@id/key_pos_1_0" key_id="@id/softkey_latin_a" />
+        <mapping view_id="@id/key_pos_1_1" key_id="@id/softkey_latin_s" />
+        <mapping view_id="@id/key_pos_1_2" key_id="@id/softkey_latin_d" />
+        <mapping view_id="@id/key_pos_1_3" key_id="@id/softkey_latin_f" />
+        <mapping view_id="@id/key_pos_1_4" key_id="@id/softkey_latin_g" />
+        <mapping view_id="@id/key_pos_1_5" key_id="@id/softkey_latin_h" />
+        <mapping view_id="@id/key_pos_1_6" key_id="@id/softkey_latin_j" />
+        <mapping view_id="@id/key_pos_1_7" key_id="@id/softkey_latin_k" />
+        <mapping view_id="@id/key_pos_1_8" key_id="@id/softkey_latin_l" />
+        <mapping view_id="@id/key_pos_1_9" key_id="@id/softkey_latin_g_with_modifier_letter_turned_comma" />
+        <mapping view_id="@id/key_pos_1_10" key_id="@id/softkey_modifier_letter_apostrophe" />
+        <mapping view_id="@id/key_pos_2_1" key_id="@id/softkey_latin_z" />
+        <mapping view_id="@id/key_pos_2_2" key_id="@id/softkey_latin_x" />
+        <mapping view_id="@id/key_pos_2_3" key_id="@id/softkey_latin_c" />
+        <mapping view_id="@id/key_pos_2_4" key_id="@id/softkey_latin_v" />
+        <mapping view_id="@id/key_pos_2_5" key_id="@id/softkey_latin_b" />
+        <mapping view_id="@id/key_pos_2_6" key_id="@id/softkey_latin_n" />
+        <mapping view_id="@id/key_pos_2_7" key_id="@id/softkey_latin_m" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping view_id="@id/key_pos_0_0" key_id="@id/softkey_latin_Q" />
+        <mapping view_id="@id/key_pos_0_1" key_id="@id/softkey_latin_W" />
+        <mapping view_id="@id/key_pos_0_2" key_id="@id/softkey_latin_E" />
+        <mapping view_id="@id/key_pos_0_3" key_id="@id/softkey_latin_R" />
+        <mapping view_id="@id/key_pos_0_4" key_id="@id/softkey_latin_T" />
+        <mapping view_id="@id/key_pos_0_5" key_id="@id/softkey_latin_Y" />
+        <mapping view_id="@id/key_pos_0_6" key_id="@id/softkey_latin_U" />
+        <mapping view_id="@id/key_pos_0_7" key_id="@id/softkey_latin_I" />
+        <mapping view_id="@id/key_pos_0_8" key_id="@id/softkey_latin_O" />
+        <mapping view_id="@id/key_pos_0_9" key_id="@id/softkey_latin_P" />
+        <mapping view_id="@id/key_pos_1_9" key_id="@id/softkey_latin_G_with_modifier_letter_turned_comma" />
+        <mapping view_id="@id/key_pos_0_10" key_id="@id/softkey_latin_O_with_modifier_letter_turned_comma" />
+        <mapping view_id="@id/key_pos_1_0" key_id="@id/softkey_latin_A" />
+        <mapping view_id="@id/key_pos_1_1" key_id="@id/softkey_latin_S" />
+        <mapping view_id="@id/key_pos_1_2" key_id="@id/softkey_latin_D" />
+        <mapping view_id="@id/key_pos_1_3" key_id="@id/softkey_latin_F" />
+        <mapping view_id="@id/key_pos_1_4" key_id="@id/softkey_latin_G" />
+        <mapping view_id="@id/key_pos_1_5" key_id="@id/softkey_latin_H" />
+        <mapping view_id="@id/key_pos_1_6" key_id="@id/softkey_latin_J" />
+        <mapping view_id="@id/key_pos_1_7" key_id="@id/softkey_latin_K" />
+        <mapping view_id="@id/key_pos_1_8" key_id="@id/softkey_latin_L" />
+        <mapping view_id="@id/key_pos_2_1" key_id="@id/softkey_latin_Z" />
+        <mapping view_id="@id/key_pos_2_2" key_id="@id/softkey_latin_X" />
+        <mapping view_id="@id/key_pos_2_3" key_id="@id/softkey_latin_C" />
+        <mapping view_id="@id/key_pos_2_4" key_id="@id/softkey_latin_V" />
+        <mapping view_id="@id/key_pos_2_5" key_id="@id/softkey_latin_B" />
+        <mapping view_id="@id/key_pos_2_6" key_id="@id/softkey_latin_N" />
+        <mapping view_id="@id/key_pos_2_7" key_id="@id/softkey_latin_M" />
+    </key_mapping>
+</framework>

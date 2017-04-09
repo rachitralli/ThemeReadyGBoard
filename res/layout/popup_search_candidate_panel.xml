@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/search_candidate_parent" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="@dimen/keyboard_header_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="start|center" android:orientation="horizontal" android:id="@id/search_candidate_pill_holder" android:background="@drawable/search_candidate_pill" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginStart="2.0dip">
+        <ImageView android:layout_gravity="start|center" android:tag="@null" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/ic_google_search_trim" />
+        <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginEnd="16.0dip">
+            <TextView android:textSize="16.0dip" android:textColor="@color/color_candidate_text_material_light_theme" android:gravity="center" android:layout_gravity="center" android:id="@id/search_candidate_text" android:background="@android:color/transparent" android:paddingBottom="1.0dip" android:layout_width="wrap_content" android:layout_height="30.0dip" android:maxLines="1" />
+            <ImageView android:layout_gravity="center" android:id="@id/search_candidate_image" android:background="@android:color/white" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="30.0dip" />
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

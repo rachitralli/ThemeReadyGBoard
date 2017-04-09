@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="?IconAccessPointSetting" android:tint="@color/first_run_page_blue_color" android:contentDescription="@string/notice_enable_new_language_default" />
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AutoSizeTextView android:gravity="center" android:id="@id/label" android:paddingStart="@dimen/notice_drawable_padding" style="@style/Notice" />
+</LinearLayout>

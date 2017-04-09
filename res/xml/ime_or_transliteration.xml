@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime string_id="ime_odia_transliteration" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" language="or_XT" auto_capital="true" display_app_completions="true">
+        <keyboard_group variant="qwerty">
+            <keyboard type="prime" def="@xml/keyboard_fragment_en_without_longpresses" transliterate="true">
+                <merge def="@xml/keyboard_latin_qwerty_t13n" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <keyboard_group variant="qwerty_with_numbers" keyboard_height_ratio="@dimen/keyboard_height_ratio_5_rows">
+            <keyboard type="prime" def="@xml/keyboard_fragment_en_without_longpresses" transliterate="true">
+                <merge def="@xml/keyboard_latin_qwerty_t13n" />
+                <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9_t13n" />
+            </keyboard>
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_is_transliteration" value="true" />
+            <item id="@id/extra_value_latin_max_candidates_requested" value="20" />
+        </extra_values>
+    </ime>
+</framework>

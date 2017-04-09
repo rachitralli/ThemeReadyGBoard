@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_fragment_punctuation_bottom_popup_without_settings" />
+    <merge_key_mapping exclude_state="NO_SETTINGS_KEY,LANG_AR,LANG_AR_MA,LANG_AZ_IR,LANG_DOI_XC,LANG_DOI_XT,LANG_DV_MV,LANG_FA,LANG_KS_XC,LANG_KS_XT,LANG_PA_PK,LANG_PA_XT,LANG_SD_XC,LANG_SD_XT,LANG_TRW,LANG_UG,LANG_UR_IN,LANG_UR_PK,LANG_UR_XT">
+        <merge view_id="@id/key_pos_bottom_symbol_1" key_id="@id/softkey_fragment_bottom_popup_settings" />
+    </merge_key_mapping>
+    <merge_key_mapping state="LANG_AR,LANG_AR_MA,LANG_AZ_IR,LANG_DOI_XC,LANG_DOI_XT,LANG_DV_MV,LANG_FA,LANG_KS_XC,LANG_KS_XT,LANG_PA_PK,LANG_PA_XT,LANG_SD_XC,LANG_SD_XT,LANG_TRW,LANG_UG,LANG_UR_IN,LANG_UR_PK,LANG_UR_XT" exclude_state="NO_SETTINGS_KEY">
+        <merge view_id="@id/key_pos_bottom_symbol_1" key_id="@id/softkey_fragment_bottom_popup_settings_with_symbols" />
+    </merge_key_mapping>
+</framework>

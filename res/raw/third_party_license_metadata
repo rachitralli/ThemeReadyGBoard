@@ -1,0 +1,73 @@
+13:10695 latinime
+10717:694 ares
+11422:1084 Brotli
+12516:1901 bzip2
+14426:11358 cctz
+25807:1484 DynamicAnnotations
+27303:85392 Eigen 3
+112707:1870 freebsd
+114590:11358 gemmlowp
+125959:1088 giflib
+127056:1475 grpc
+128540:26536 GRTE
+155085:1079 half
+156180:11359 highwayhash
+167549:19442 ICU4C
+187031:10695 Android Annotations Support Library
+197761:10695 Android Compat Support Library
+208492:10695 Android Core UI Support Library
+219226:10691 Android Core Utils Support Library
+229952:10695 Android Design Support Library
+240685:10695 Android Fragments Support Library
+251417:10695 Android Graphics Support Library
+262153:10691 Android Media Compat Support Library
+272881:10695 Android Multidex Support Library
+283615:10691 Android Transition Support Library
+294344:10695 Android Compatibility Library v13
+305076:10695 Android Compatibility Library v4
+315808:10695 Android Compatibility Library v7
+326519:16013 Android SDK
+342542:4771 Glide
+347328:11358 Guava JDK5
+358704:1732 Protobuf Nano
+360451:11358 safeparcel
+371828:1096 Animal Sniffer
+372948:1473 Auth client library
+374437:11358 Google Auto
+385817:22655 Checker Framework
+408483:11358 Dagger
+419857:11357 Error Prone
+431223:1472 gRPC
+432725:11357 Hallmark CardView library
+444102:11358 instrumentation
+455471:11358 J2ObjC
+466852:11358 FasterXML Jackson2
+478235:11358 Apache Commons Codec
+489603:1104 jsoup
+490719:11358 JSR 250
+502089:1602 JSR 305
+503703:11365 JSR 330
+515079:11358 OkHttp
+526446:11358 Okio
+537815:11344 RxJava
+549174:11362 Guava JDK7
+560548:1484 leveldb
+562043:20240 libcap
+582301:5545 libjpeg-turbo
+587858:5416 Libxml2
+593286:4535 libxsmm
+597832:1479 marisa
+599322:898 nanopb
+600234:9287 BoringSSL
+609536:11357 pcg_random
+620902:3182 PCRE
+624092:4155 png
+628268:1732 Protocol Buffers
+630008:1558 RE2
+631574:680 STL
+632269:11416 TensorFlow
+643701:243 tz database
+643952:731 UTF
+644693:2655 zippy
+647357:2500 zlib
+649869:1530 zstdlib

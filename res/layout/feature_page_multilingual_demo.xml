@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:src="@drawable/feature_page_demo_phone_layout" style="@style/LatinFeaturePageImage" />
+    <com.google.android.apps.inputmethod.libs.framework.firstrun.MultipleFramesPage android:id="@id/feature_page_multiple_pages" android:layout_width="fill_parent" android:layout_height="fill_parent" page_switch_interval="800" replay_switch_interval="2000" fade_in_animator="@animator/feature_multiple_page_fade_in">
+        <ImageView android:src="@drawable/feature_page_multilingual_keyboard" style="@style/LatinFeaturePageImage" />
+        <ImageView android:src="@drawable/feature_page_multilingual_es_gesture" style="@style/LatinFeaturePageImage" />
+        <ImageView android:src="@drawable/feature_page_multilingual_es_prediction" style="@style/LatinFeaturePageImage" />
+        <ImageView android:src="@drawable/feature_page_multilingual_es_prediction_commit" style="@style/LatinFeaturePageImage" />
+        <ImageView android:src="@drawable/feature_page_multilingual_en_gesture" style="@style/LatinFeaturePageImage" />
+        <ImageView android:src="@drawable/feature_page_multilingual_en_prediction" style="@style/LatinFeaturePageImage" />
+        <ImageView android:src="@drawable/feature_page_multilingual_en_prediction_commit" style="@style/LatinFeaturePageImage" />
+    </com.google.android.apps.inputmethod.libs.framework.firstrun.MultipleFramesPage>
+</merge>
